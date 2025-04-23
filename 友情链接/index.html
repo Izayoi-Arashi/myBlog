@@ -4,11 +4,11 @@
 <meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="暂时没有朋友，以下是一些技术网站\n">
 <title>友情链接</title>
 
-<link rel='canonical' href='https://example.com/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/'>
+<link rel='canonical' href='https://arashiizayoi.xin/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/'>
 
-<link rel="stylesheet" href="/scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css"><meta property='og:title' content="友情链接">
+<link rel="stylesheet" href="/scss/style.min.d1501d423f1c842cf9e87dcbd61cd4357a6c18c1ed6885cd114ef2cefc95c85d.css"><meta property='og:title' content="友情链接">
 <meta property='og:description' content="暂时没有朋友，以下是一些技术网站\n">
-<meta property='og:url' content='https://example.com/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/'>
+<meta property='og:url' content='https://arashiizayoi.xin/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/'>
 <meta property='og:site_name' content='雨缄信笺'>
 <meta property='og:type' content='article'><meta property='article:section' content='Page' />
 <meta name="twitter:title" content="友情链接">
@@ -64,7 +64,7 @@
                 
                 </a>
                 
-                    <span class="emoji">⚡</span>
+                    <span class="emoji">🤔</span>
                 
             </figure>
             
@@ -143,6 +143,18 @@
 
                 
                 <span>关于</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-%E5%85%AC%E5%91%8A/' >
+                
+                
+                
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-list"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 6l11 0" /><path d="M9 12l11 0" /><path d="M9 18l11 0" /><path d="M5 6l0 .01" /><path d="M5 12l0 .01" /><path d="M5 18l0 .01" /></svg>
+                
+                <span>更新日志 &amp; 公告</span>
             </a>
         </li>
         
@@ -272,6 +284,14 @@
                 </time>
             </div>
         
+         
+         <div id="viewCount">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-eye"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M10 12a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" /><path d="M21 12c-2.4 4 -5.4 6 -9 6c-3.6 0 -6.6 -2 -9 -6c2.4 -4 5.4 -6 9 -6c3.6 0 6.6 2 9 6" /></svg>
+            <time class="article-time--reading">
+                
+                <span id="vercount_value_page_pv">loading... </span>次
+            </time>
+        </div>
     </footer>
     
 
@@ -376,6 +396,33 @@
             十六夜岚的个人主页 <br/>
         使用 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> 构建 <br />
         主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.30.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计
+        <br>
+        <span>由Arashi定制</span>
+        <br>
+        <span id="timeDate">载入天数...</span><span id="times">载入时分秒...</span>
+
+        <script language="javascript"> 
+            var now = new Date();
+            function createtime(){
+                now.setTime(now.getTime()+250); 
+                var grt= new Date("2025/04/21 00:00:00"); 
+                days = (now - grt ) / 1000 / 60 / 60 / 24;
+                dnum = Math.floor(days);
+                hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum);
+                hnum = Math.floor(hours);
+                if(String(hnum).length ==1 ){hnum = "0" + hnum;}
+                minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum);
+                mnum = Math.floor(minutes);
+                if(String(mnum).length ==1 ){mnum = "0" + mnum;}
+                seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);
+                snum = Math.round(seconds);
+                if(String(snum).length ==1 ){snum = "0" + snum;}
+    
+                document.getElementById("timeDate").innerHTML = "本站已稳定运行"+dnum+" 天 ";
+                document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒"
+            }
+            setInterval("createtime()",250); 
+        </script> 
     </section>
 </footer>
 
@@ -476,21 +523,368 @@
         document.head.appendChild(customFont);
     }());
 </script>
-<link rel="stylesheet" href="APlayer.min.css">
+
 <div id="aplayer"></div>
-<script src="APlayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+<script>
+    const home = "https:\/\/arashiizayoi.xin\/" + 'music/'
+    const songs = [
+        '夏恋-Otokaze',
+        'The Voice in My Heart-Evan Call',
+        'Behavior-花鋏キョウ',
+        'Mine (Illenium Remix)-ILLENIUM、Phoebe Ryan',
+        '秋姉妹のなく顷に in the autumn sky',
+        '心跳同步的时光-Memory Ver.-JUSF周存',
+        'メイデー、メイビーネイビー (feat. そらこ)-そらこ、sasakure.UK',
+        '命に嫌われている-東京フィルハーモニー交響楽団',
+        'エソラコト-そらこ',
+        '春嵐-MEIKO、小豆沢こはね、白石杏、東雲彰人、青柳冬弥、Vivid BAD SQUAD',
+    ]
+    let audios = []
+    songs.forEach((item) => {
+    const songinfo = item.split('-')
+    audios.push({
+        name: songinfo[0],
+        artist: songinfo[1],
+        url: home + item + '/song.mp3',
+        cover: home + item + '/cover.jpg',
+        lrc: home + item + '/lyric.lrc'
+    })
+})
+	const ap = new APlayer({
+    container: document.getElementById('aplayer'),
+    fixed: true,
+    lrcType: 3,
+    listMaxHeight: '160px',
+    muter: true,
+    audio: audios
+})
+
+
+
+     window.onbeforeunload = () => {
+        
+        const playInfo = {
+            index: ap.list.index,
+            currentTime: ap.audio.currentTime,
+            paused: ap.paused
+        };
+        localStorage.setItem("playInfo", JSON.stringify(playInfo));
+    };
+
+    
+
+    window.onload = () => {
+        
+        const playInfo = JSON.parse(localStorage.getItem("playInfo"));
+        if (!playInfo) {
+            return;
+        }
+        
+        ap.list.switch(playInfo.index);
+        
+        setTimeout(() => {
+            
+            ap.seek(playInfo.currentTime);
+            
+            if (!playInfo.paused) {
+                ap.play()
+            }
+        }, 500);
+    }
+</script>
+ 
+<div class="loading">
+    
+    <div class="loader">
+        <div class="progress" data-percentage="100%"></div>
+    </div> 
+</div>
+  
+
+<div id="particles-js"></div>
+<script src=https://arashiizayoi.xin/background/particles.min.js></script>
+<script>
+ particlesJS.load('particles-js', 'https:\/\/arashiizayoi.xin\/background\/particlesjs-config.json', function() {
+    console.log('particles.js loaded - callback')
+})
+</script>
+<style>
+  #particles-js {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: -1;
+  }
+</style>
+
+<style>
+    #backTopBtn {
+        display: none;
+        position: fixed;
+        bottom: 30px;
+        z-index: 99;
+        cursor: pointer;
+        width: 30px;
+        height: 30px;
+        background-image: url('https://arashiizayoi.xin/icons/backTop.svg');
+    }
+</style>
 
 <script>
-	const ap = new APlayer({
-    container: document.getElementById('player'),
-    fixed: true,
-    audio: [{
-        name: 'name',
-        artist: 'artist',
-        url: 'url.mp3',
-        cover: 'cover.jpg',
-    }]
-});
+    
+
+    function initScrollTop() {
+        let rightSideBar = document.querySelector(".right-sidebar");
+        if (!rightSideBar) {
+            return;
+        }
+        
+        let btn = document.createElement("div");
+        btn.id = "backTopBtn";
+        btn.onclick = backToTop
+        rightSideBar.appendChild(btn)
+        
+        window.onscroll = function() {
+            
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                btn.style.display = "block";
+            } else {
+                btn.style.display = "none";
+            }
+        };
+    }
+
+    
+
+    function backToTop(){
+        window.scrollTo({ top: 0, behavior: "smooth" })
+    }
+
+    initScrollTop();
 </script>
+  
+<div class="loading">
+    <div class="sharingon">
+        <div class="ring">
+            <div class="to"></div>
+            <div class="to"></div>
+            <div class="to"></div>
+            <div class="circle"></div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .loading {
+        position: fixed;
+        display: none;
+        justify-content: center;
+        align-items: center;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 99;
+        zoom: 3.0;
+        background-color: #f5f5fa;
+    }
+	  
+.loader {
+  width: 400px;
+  height: 32px;
+  background-color: #000000;
+  position: relative;
+  overflow: hidden;
+  border: 3px solid white;
+}
+
+.progress {
+  width: 0%;
+  height: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  top: 0;
+  left: 0;
+  animation: progress-animation 3s ease-in-out forwards infinite;
+}
+
+.progress::after {
+  content: attr(data-percentage);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-weight: bold;
+  transform: translate(-50%, -50%);
+  font-size: 1rem;
+  color: black;
+}
+
+@keyframes progress-animation {
+  0% {
+    width: 0%;
+  }
+  25% {
+    width: 25%;
+  }
+  50% {
+    width: 50%;
+  }
+  75% {
+    width: 75%;
+  }
+  100% {
+    width: 100%;
+  }
+}
+
+@keyframes percentage-animation {
+  0% {
+    content: "0%";
+  }
+  25% {
+    content: "25%";
+  }
+  50% {
+    content: "50%";
+  }
+  75% {
+    content: "75%";
+  }
+  100% {
+    content: "100%";
+  }
+}
+
+.progress::after {
+  animation: percentage-animation 3s ease-in-out forwards infinite;
+}
+
+</style>
+
+<script>	
+    function initLoading() {
+        const isFirstVisit = !sessionStorage.getItem('visited');
+        if (isFirstVisit) {
+            let loading = document.querySelector(".loading");
+            loading.style.display = "flex";
+            document.addEventListener('DOMContentLoaded', function() {
+                
+                loadFinish();
+                
+                setTimeout(() => {
+                    loading.style.display = "none";
+                }, 1500)
+                sessionStorage.setItem('visited', 'true');
+            });
+        }
+    }
+	
+    function loadFinish() {
+        
+        let sharingon= document.querySelector(".sharingon");
+        sharingon.classList.add("animated-stop")
+        
+        let loading = document.querySelector(".loading");
+        loading.classList.add("scaleAndFadeout")
+    }
+	
+    initLoading();
+</script>
+
+
+<script defer src="https://cn.vercount.one/js"></script>
+<script>
+  function showHideView() {
+      
+      let viewCounts = document.querySelectorAll("#viewCount");
+      if (viewCounts) {
+          
+          let article =  document.querySelector(".article-page");
+          if (!article) {
+              viewCounts.forEach(ele => {
+                  ele.style.display = 'none';
+              });
+          }
+      }
+  }
+  
+  showHideView();
+</script>
+
+<style>
+  @font-face {
+    font-family: '字体名';
+    src: url('https://arashiizayoi.xin/font/ChillKai%EF%BC%88%E6%8E%A8%E8%8D%90%EF%BC%89.ttf') format('truetype');
+  }
+
+  :root {
+    --base-font-family: '寒蝉正楷';
+    --code-font-family: '寒蝉正楷';
+  }
+</style>
+
+<style>
+  #TableOfContents > ul, ol {
+      ul, ol {
+          display: none;
+      }
+      .open {
+          display: block;
+      }
+  }
+</style>
+
+
+<script>
+  function initTocHide() {
+      
+      let toc = document.querySelector(".widget--toc");
+      if (!toc) {
+          return;
+      }
+      
+      window.addEventListener('scroll', function() {
+          
+          let openUl = document.querySelectorAll(".open");
+          if (openUl.length > 0) {
+            openUl.forEach((ul) => {
+              ul.classList.remove("open")
+            })
+          }
+          
+          let currentLi = document.querySelector(".active-class");
+          if (!currentLi) {
+              return
+          }
+          
+          if (currentLi.children.length > 1) {
+              currentLi.children[1].classList.add("open")
+          }
+          
+          let ul = currentLi.parentElement;
+          do {
+              ul.classList.add("open");
+              ul = ul.parentElement.parentElement
+          } while (ul !== undefined && (ul.localName === 'ul' || ul.localName === 'ol'))
+      });
+  }
+  initTocHide()
+</script>
+
+
+<script src="https://cdn.jsdelivr.net/gh/zhixuan2333/gh-blog@v0.1.0/js/nprogress.min.js" integrity="sha384-bHDlAEUFxsRI7JfULv3DTpL2IXbbgn4JHQJibgo5iiXSK6Iu8muwqHANhun74Cqg" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zhixuan2333/gh-blog@v0.1.0/css/nprogress.css" integrity="sha384-KJyhr2syt5+4M9Pz5dipCvTrtvOmLk/olWVdfhAp858UCa64Ia5GFpTN7+G4BWpE" crossorigin="anonymous" />
+<script>
+    NProgress.start();
+    document.addEventListener("readystatechange", () => {
+        if (document.readyState === "interactive") NProgress.inc(0.8);
+        if (document.readyState === "complete") NProgress.done();
+    });
+</script>
+
+
+
     </body>
 </html>

@@ -2,426 +2,182 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>雨缄信笺</title>
-        <link>https://example.com/</link>
+        <link>https://arashiizayoi.xin/</link>
         <description>Recent content on 雨缄信笺</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Arashi Izayoi 十六夜岚</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Chinese Test</title>
-        <link>https://example.com/p/test-chinese/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        <lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://arashiizayoi.xin/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>山</title>
+        <link>https://arashiizayoi.xin/p/see/</link>
+        <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/test-chinese/</guid>
-        <description>&lt;img src="https://example.com/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
-&lt;/h2&gt;&lt;p&gt;而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 我们不得不面对一个非常尴尬的事实，那就是， 可是，即使是这样，学生会退会的出现仍然代表了一定的意义。 学生会退会，发生了会如何，不发生又会如何。 经过上述讨论， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 学生会退会，到底应该如何实现。 这样看来， 在这种困难的抉择下，本人思来想去，寝食难安。 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 就我个人来说，学生会退会对我的意义，不能不说非常重大。 莎士比亚曾经提到过，人的一生是短的，但如果卑劣地过这一生，就太长了。这似乎解答了我的疑惑。 莫扎特说过一句富有哲理的话，谁和我一样用功，谁就会和我一样成功。这启发了我， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 学生会退会，到底应该如何实现。 一般来说， 从这个角度来看， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 在这种困难的抉择下，本人思来想去，寝食难安。 了解清楚学生会退会到底是一种怎么样的存在，是解决一切问题的关键。 一般来说， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 问题的关键究竟为何？ 而这些并不是完全重要，更加重要的问题是。&lt;/p&gt;
-&lt;p&gt;奥斯特洛夫斯基曾经说过，共同的事业，共同的斗争，可以使人们产生忍受一切的力量。　带着这句话，我们还要更加慎重的审视这个问题： 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 带着这些问题，我们来审视一下学生会退会。 我认为， 我认为， 在这种困难的抉择下，本人思来想去，寝食难安。 问题的关键究竟为何？ 每个人都不得不面对这些问题。 在面对这种问题时， 要想清楚，学生会退会，到底是一种怎么样的存在。 我认为， 既然如此， 每个人都不得不面对这些问题。 在面对这种问题时， 那么， 我认为， 学生会退会因何而发生。&lt;/p&gt;
-&lt;h2 id=&#34;引用&#34;&gt;引用
-&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;思念是最暖的忧伤像一双翅膀&lt;br&gt;
-让我停不了飞不远在过往游荡&lt;br&gt;
-不告而别的你 就算为了我着想&lt;br&gt;
-这么沉痛的呵护 我怎么能翱翔&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=3aypp_YlBzI&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;最暖的憂傷 - 田馥甄&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;h2 id=&#34;图片&#34;&gt;图片
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://example.com/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg&#34;
-	width=&#34;667&#34;
-	height=&#34;1000&#34;
-	srcset=&#34;https://example.com/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e98fca2b4272416e.jpg 480w, https://example.com/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e3d37c9ded115b12.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by Florian Klauer on Unsplash&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;66&#34;
-		data-flex-basis=&#34;160px&#34;
-	
-&gt;  &lt;img src=&#34;https://example.com/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;667&#34;
-	srcset=&#34;https://example.com/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_e13c58d5189f892c.jpg 480w, https://example.com/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_8fc948b7ee525251.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by Luca Bravo on Unsplash&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;149&#34;
-		data-flex-basis=&#34;359px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.com/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;https://example.com/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_503c0ebcc5245e10.jpg 480w, https://example.com/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_48c98de55fb3c999.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by Helena Hertz on Unsplash&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;  &lt;img src=&#34;https://example.com/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
-	width=&#34;667&#34;
-	height=&#34;1000&#34;
-	srcset=&#34;https://example.com/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_f81a3588c5c4a663.jpg 480w, https://example.com/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_1c52ba2a4ad7b9a0.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by Hudai Gayiran on Unsplash&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;66&#34;
-		data-flex-basis=&#34;160px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![&lt;span class=&#34;nt&#34;&gt;Photo by Florian Klauer on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;florian-klauer-nptLmg6jqDo-unsplash.jpg&lt;/span&gt;)  ![&lt;span class=&#34;nt&#34;&gt;Photo by Luca Bravo on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;luca-bravo-alS7ewQ41M8-unsplash.jpg&lt;/span&gt;) 
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![&lt;span class=&#34;nt&#34;&gt;Photo by Helena Hertz on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;helena-hertz-wWZzXlDpMog-unsplash.jpg&lt;/span&gt;)  ![&lt;span class=&#34;nt&#34;&gt;Photo by Hudai Gayiran on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;相册语法来自 &lt;a class=&#34;link&#34; href=&#34;https://typlog.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Typlog&lt;/a&gt;&lt;/p&gt;
+        <guid>https://arashiizayoi.xin/p/see/</guid>
+        <description>&lt;img src="https://arashiizayoi.xin/p/see/cover.jpg" alt="Featured image of post 山" /&gt;&lt;blockquote&gt;
+&lt;p&gt;这篇文章转载自Arashi的日记，略有删改  | 封面：夕凪&lt;/p&gt;&lt;/blockquote&gt;
+&lt;div&gt;
+    &lt;blockquote&gt;作于2024.10
+    &lt;br&gt;
+    &lt;br&gt;&lt;b&gt;
+身为一个福建人，从小免不得跟山打交道，比起海，要是没有直接去海边，还是看不到海的，除非住在海的边上，但山就不一样了，在老家，甚至不用离开家只是单纯从窗户向外望去，便能看到山，在记事起，童年中老家的山，是我现实生活中了解世界的边界，在老家度过童年生活的我，看到山与天交接的地方时总会对山的另一边充满遐想，也许在外人看来，这是山区生活的人才会有的想法，实际上长大以后长才发现自己的老家是在一个小平原内，只是四周环山罢了。但就是这样环境下成长的我，对山会更加的留意，在路上，在阳台上，在院子里……即使现在不在老家也一样，有的时候会就静静的看着远处的山发呆，以此来放松在电脑桌前还在思考代码该怎么编写的我。天气变幻，四季流转，不管是什么状态下的山，都值得稍稍回味。有时，只因为那大片的绿，心情便好了起来。在目前所走过的人生中，遇到了许许多多的事，形形色色的人，只有那远处的山，依旧不变，静静的守望着，经历风吹雨打仍傲然挺立，我想这就是我喜欢的原因吧？
+&lt;/b&gt;
+</description>
+        </item>
+        <item>
+        <title>一场失与得的思考</title>
+        <link>https://arashiizayoi.xin/p/book/</link>
+        <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://arashiizayoi.xin/p/book/</guid>
+        <description>&lt;img src="https://arashiizayoi.xin/p/book/cover.jpg" alt="Featured image of post 一场失与得的思考" /&gt;&lt;blockquote&gt;
+&lt;p&gt;这篇文章为原创文章&lt;/p&gt;&lt;/blockquote&gt;
+&lt;div&gt;
+    &lt;blockquote&gt;“穿过‘浦岛隧道’，就能得到你最想要的东西，但代价是——失去一些宝贵的东西。”
+    &lt;br&gt;
+    &lt;br&gt;&lt;b&gt;在乡下小镇香崎上流传着一个这样神秘的都市传说男主角塔野薰，因为五年前失去了最亲的妹妹，一直心怀愧疚与悲伤。某天，他无意间发现了传说中的“浦岛隧道”。在探查过程中，他遇到了刚转学来的少女花城杏子。
+杏子与薰一样，心中藏着伤痕和愿望。两人决定联手探索隧道的秘密。他们通过一次次实验，逐渐发现：隧道内的时间流速与外界不同，而且隧道似乎能实现人心深处的“愿望”。
+        但，越是接近隧道的尽头，他们越必须面对自己真正的“执念”与“放不下”的东西——包括亲人、记忆、未来，以及……彼此。&lt;/b&gt;
+&lt;br&gt;
+作品融合了青春恋爱、科幻奇想与成长治愈等元素，风格感性细腻，有点像新海诚导演的作品。它探讨了失去、后悔、时间的价值，以及选择与告别的主题。电影早有耳闻，但听说没有原作详细于是就买来了实体书。总体来说还算不错,非要挑毛病的话，就是篇幅稍微短了一点关于男女主身边的人物少了一些刻画，有一点“跑龙套”的感觉。这是一个关于“失与得”的故事，男主塔野薰，因为妹妹的骤然离世，一直活在悔恨与自责之中。女主花城杏子则背负着家庭的冷漠与自我价值的否定，于是两个原本孤独而寂寞的灵魂，因为一个神秘的“浦岛隧道”相遇，试图用超自然的方式改变命运。但随着他们不断探索，他们发现，越是执着于过去，越容易迷失在时间的长河中。
+        &lt;br&gt;
+      在隧道中薰在努力穿过隧道随身携带的物资快要消耗殆尽时，薰终于见到了他的妹妹，但他的妹妹却告诉他不要执着于过去，而是要有“爱一个人的资格” 最终薰猛然醒悟选择放下执念，告别妹妹，用当下的生命继续前行。而女主花城杏子则是因为薰在隧道口留下的一瓶瓶中信，选择坚持成为一个漫画家的道路。在故事的最后由于隧道内外时间流速不一样当薰离开隧道时，他已经33岁了但身体却是17岁少年的模样，而花城杏子因为薰留下的信，没有进入隧道长时间探索，样貌是自然变化的。即使样貌已经与之前大不同了，但并不影响他们最后相爱。反而是经过隧道的洗礼他们学会了放下过去，放眼当下，拥抱未来。不是所有的再见都有一个奇迹的出口，但我们依然要在时光中，学会放手与告别。 
+&lt;br&gt;
+&lt;p&gt;这本书让我想起一句话：“人的一生，总是在不停地道别，但也是在不断地遇见。”或许我们终究无法穿越时间的隧道去改变过去，但我们可以在每一个当下，活得更坚定、更温柔。&lt;/p&gt;
+&lt;p&gt;如果说隧道是奇迹的通道，那“再见”就是成长的出口。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>歌曲分享01</title>
+        <link>https://arashiizayoi.xin/p/pjsk/</link>
+        <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://arashiizayoi.xin/p/pjsk/</guid>
+        <description>&lt;img src="https://arashiizayoi.xin/p/pjsk/25.jpg" alt="Featured image of post 歌曲分享01" /&gt;&lt;blockquote&gt;
+&lt;p&gt;这篇文章为原创文章&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;-偶然的相遇&#34;&gt;🎼 偶然的相遇
+&lt;/h2&gt;&lt;p&gt;第一次听这首歌的时候还没入坑游戏，也不知道这个团体到底是个什么样的团体，大概是因为v曲听多了网易云音乐就给我推了。本来以为就是一首普通的歌曲，像往常一下稍微听一下就差不多了。直到这首歌的高潮部分深深地把我打动了，有一种被触动的感觉。自把它加进自己的歌单后，与这个团体（25時、ナイトコードで）缘分就此开始了。我开始了解到这是一个音乐手游里的OC团体，了解到他们的其他歌曲也是如此的温暖。在这样的好奇心驱使下，我开始入坑这款游戏，并开始了解他们的故事（曾一口气通宵看他们的主线故事），得知这样温暖的背后，是因为他们各自背负着来自所处环境的枷锁。但好在他们是个团体可以互相帮助互相依靠并渐渐走出阴影，我想正是因为这样他们才能写出让人感到温暖的曲子。于现实中的我而言，在我深陷泥泞时他们的歌就是生活必需品，让我走出困境。&lt;/p&gt;
+&lt;h2 id=&#34;-歌词&#34;&gt;🎵 歌词
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;25時の情熱&lt;/strong&gt;&lt;br&gt;
+作词 : カンザキイオリ&lt;br&gt;
+作曲 : カンザキイオリ&lt;/p&gt;
+&lt;p&gt;いつか消えた駅のあのホームの記憶も
+早已在某日消失的那个车站月台的记忆&lt;/p&gt;
+&lt;p&gt;熱い志で出会った仲間達も
+因远大志向而相会的伙伴们&lt;/p&gt;
+&lt;p&gt;いつか海になって空になって人になっていく
+总有一天都将化为沧海 化为蓝天 也将化为众人&lt;/p&gt;
+&lt;p&gt;25時の情熱も恋しくなる日が来る
+这25时的热情 亦终将化为深深怀念&lt;/p&gt;
+&lt;p&gt;顔を押し付けた傷だらけの机と
+曾贴近脸颊的那遍布伤痕的课桌&lt;/p&gt;
+&lt;p&gt;放課後の香りとチャイムの冷たさと
+那放学后的香味以及校园铃声的冰冷&lt;/p&gt;
+&lt;p&gt;愛の軽さと悲しみの重さと
+还有爱的轻盈与悲伤的沉重&lt;/p&gt;
+&lt;p&gt;この夜で僕達は出来ている
+因这一夜 成就了这样的我们&lt;/p&gt;
+&lt;p&gt;大人になったらきっとわかる
+成为大人之后一定就可以明白&lt;/p&gt;
+&lt;p&gt;許されていた若さ
+那曾被谅解的年少&lt;/p&gt;
+&lt;p&gt;大人になってもきっと縋る
+即使成为大人也仍旧紧拥着&lt;/p&gt;
+&lt;p&gt;一夜の思い出
+这一夜的回忆&lt;/p&gt;
+&lt;p&gt;恋してる愛してるこの夜の歌も
+迷恋着的深爱着的这一夜的歌声&lt;/p&gt;
+&lt;p&gt;いつか奥底で燻る日が来るのかな
+是否也终会成为心底不散的烟雾呢&lt;/p&gt;
+&lt;p&gt;ちゃんと綺麗に幸せを愛せるかな
+是否能毫无顾虑地爱着这份幸福呢&lt;/p&gt;
+&lt;p&gt;ちゃんと綺麗に人を救えるかな
+是否能不留遗憾地将他人拯救呢&lt;/p&gt;
+&lt;p&gt;世界が輝いていること忘れないで
+请不要忘记 这世界正在闪闪发光&lt;/p&gt;
+&lt;p&gt;世界が蠢いていること忘れないで
+请不要忘记 这世界正在蠢蠢欲动&lt;/p&gt;
+&lt;p&gt;世界に一人じゃないこと忘れないで
+请不要忘记 在这世上你并非孤独一人&lt;/p&gt;
+&lt;p&gt;情熱を忘れないで
+请不要忘记这热情&lt;/p&gt;
+&lt;p&gt;いつか歩く道も
+曾经走过的道路&lt;/p&gt;
+&lt;p&gt;いつか歌う場所も
+曾经歌唱过的地方&lt;/p&gt;
+&lt;p&gt;心の片隅で嫌いになる日が来る
+也都终将会在内心一隅产生厌恶&lt;/p&gt;
+&lt;p&gt;不条理に揉まれて
+被不合理肆意蹂躏&lt;/p&gt;
+&lt;p&gt;苦しみに晒され
+暴露于苦痛之中&lt;/p&gt;
+&lt;p&gt;また何度でもこの夜に帰ってくる
+无论多少次都仍旧会回到这个夜晚&lt;/p&gt;
+&lt;p&gt;恋してる愛してるこの夜の歌が
+迷恋着的深爱着的这一夜的歌声&lt;/p&gt;
+&lt;p&gt;いつか愛する人の心に届くのかな
+是否也终能传至深爱之人的心底呢&lt;/p&gt;
+&lt;p&gt;ちゃんと綺麗に人を愛せるかな
+是否能毫无顾虑地爱着其他人呢&lt;/p&gt;
+&lt;p&gt;ちゃんと綺麗に人を救えるかな
+是否能不留遗憾地将他人拯救呢&lt;/p&gt;
+&lt;p&gt;25時の情熱を忘れずにいれるかな
+这25时的热情 能否始终存留于心呢&lt;/p&gt;
+&lt;p&gt;歌词来源：网易云音乐&lt;/p&gt;
+&lt;h2 id=&#34;-在线收听&#34;&gt;🎧 在线收听
+&lt;/h2&gt;&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=330 height=86 src=&#34;//music.163.com/outchain/player?type=2&amp;id=2114394281&amp;auto=0&amp;height=66&#34;&gt;&lt;/iframe&gt;
 </description>
         </item>
         <item>
         <title>归档</title>
-        <link>https://example.com/archives/</link>
+        <link>https://arashiizayoi.xin/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/archives/</guid>
+        <guid>https://arashiizayoi.xin/archives/</guid>
         <description></description>
         </item>
         <item>
-        <title>Markdown Syntax Guide</title>
-        <link>https://example.com/p/markdown-syntax-guide/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>更新日志 &amp; 公告</title>
+        <link>https://arashiizayoi.xin/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-%E5%85%AC%E5%91%8A/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/markdown-syntax-guide/</guid>
-        <description>&lt;img src="https://example.com/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
-&lt;h2 id=&#34;headings&#34;&gt;Headings
-&lt;/h2&gt;&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
-&lt;h1 id=&#34;h1&#34;&gt;H1
-&lt;/h1&gt;&lt;h2 id=&#34;h2&#34;&gt;H2
-&lt;/h2&gt;&lt;h3 id=&#34;h3&#34;&gt;H3
-&lt;/h3&gt;&lt;h4 id=&#34;h4&#34;&gt;H4
-&lt;/h4&gt;&lt;h5 id=&#34;h5&#34;&gt;H5
-&lt;/h5&gt;&lt;h6 id=&#34;h6&#34;&gt;H6
-&lt;/h6&gt;&lt;h2 id=&#34;paragraph&#34;&gt;Paragraph
-&lt;/h2&gt;&lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p&gt;
-&lt;p&gt;Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.&lt;/p&gt;
-&lt;h2 id=&#34;blockquotes&#34;&gt;Blockquotes
-&lt;/h2&gt;&lt;p&gt;The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a &lt;code&gt;footer&lt;/code&gt; or &lt;code&gt;cite&lt;/code&gt; element, and optionally with in-line changes such as annotations and abbreviations.&lt;/p&gt;
-&lt;h4 id=&#34;blockquote-without-attribution&#34;&gt;Blockquote without attribution
-&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-&lt;strong&gt;Note&lt;/strong&gt; that you can use &lt;em&gt;Markdown syntax&lt;/em&gt; within a blockquote.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;h4 id=&#34;blockquote-with-attribution&#34;&gt;Blockquote with attribution
-&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;br&gt;
-— &lt;cite&gt;Rob Pike&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;h2 id=&#34;tables&#34;&gt;Tables
-&lt;/h2&gt;&lt;p&gt;Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Name&lt;/th&gt;
-          &lt;th&gt;Age&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Bob&lt;/td&gt;
-          &lt;td&gt;27&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Alice&lt;/td&gt;
-          &lt;td&gt;23&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;inline-markdown-within-tables&#34;&gt;Inline Markdown within tables
-&lt;/h4&gt;&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Italics&lt;/th&gt;
-          &lt;th&gt;Bold&lt;/th&gt;
-          &lt;th&gt;Code&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;em&gt;italics&lt;/em&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;code&lt;/code&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;A&lt;/th&gt;
-          &lt;th&gt;B&lt;/th&gt;
-          &lt;th&gt;C&lt;/th&gt;
-          &lt;th&gt;D&lt;/th&gt;
-          &lt;th&gt;E&lt;/th&gt;
-          &lt;th&gt;F&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/td&gt;
-          &lt;td&gt;Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex.&lt;/td&gt;
-          &lt;td&gt;Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus&lt;/td&gt;
-          &lt;td&gt;Proin sit amet velit nec enim imperdiet vehicula.&lt;/td&gt;
-          &lt;td&gt;Ut bibendum vestibulum quam, eu egestas turpis gravida nec&lt;/td&gt;
-          &lt;td&gt;Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;code-blocks&#34;&gt;Code Blocks
-&lt;/h2&gt;&lt;h4 id=&#34;code-block-with-backticks&#34;&gt;Code block with backticks
-&lt;/h4&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;lang&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;charset&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Example HTML5 Document&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Test&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h4 id=&#34;code-block-indented-with-four-spaces&#34;&gt;Code block indented with four spaces
-&lt;/h4&gt;&lt;pre&gt;&lt;code&gt;&amp;lt;!doctype html&amp;gt;
-&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
-&amp;lt;head&amp;gt;
-  &amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
-  &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
-&amp;lt;body&amp;gt;
-  &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
-&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h4 id=&#34;code-block-with-hugos-internal-highlight-shortcode&#34;&gt;Code block with Hugo&amp;rsquo;s internal highlight shortcode
-&lt;/h4&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;lang&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;charset&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Example HTML5 Document&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Test&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;h4 id=&#34;diff-code-block&#34;&gt;Diff code block
-&lt;/h4&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-diff&#34; data-lang=&#34;diff&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[dependencies.bevy]
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git = &amp;#34;https://github.com/bevyengine/bevy&amp;#34;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rev = &amp;#34;11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13&amp;#34;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gd&#34;&gt;- features = [&amp;#34;dynamic&amp;#34;]
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gd&#34;&gt;&lt;/span&gt;&lt;span class=&#34;gi&#34;&gt;+ features = [&amp;#34;jpeg&amp;#34;, &amp;#34;dynamic&amp;#34;]
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h2 id=&#34;list-types&#34;&gt;List Types
-&lt;/h2&gt;&lt;h4 id=&#34;ordered-list&#34;&gt;Ordered List
-&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;First item&lt;/li&gt;
-&lt;li&gt;Second item&lt;/li&gt;
-&lt;li&gt;Third item&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&#34;unordered-list&#34;&gt;Unordered List
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;List item&lt;/li&gt;
-&lt;li&gt;Another item&lt;/li&gt;
-&lt;li&gt;And another item&lt;/li&gt;
+        <guid>https://arashiizayoi.xin/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-%E5%85%AC%E5%91%8A/</guid>
+        <description>&lt;h3 id=&#34;公告&#34;&gt;公告
+&lt;/h3&gt;  &lt;br&gt;
+      你好！欢迎来到我的个人主页！“雨缄云笺愁未题，风锁暮窗意转迷。”这里是十六夜岚，这是一个普普通通的小窝，站长花了3天时间建成的。在未来这里会断断续续发布一些文章，或者增加一些新功能。如果有什么问题可以通过头像底部的社交账号反馈给站长哦！
+	  推荐使用PC访问，效果更佳！
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h5 id=&#34;-新功能&#34;&gt;✨ &lt;strong&gt;新功能&lt;/strong&gt;
+&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;新增音乐播放器&lt;/li&gt;
+&lt;li&gt;新增动态背景&lt;/li&gt;
+&lt;li&gt;新增网页过渡动画&lt;/li&gt;
+&lt;li&gt;新增回到顶部选项（PC）&lt;/li&gt;
+&lt;li&gt;新增顶部加载进度条&lt;/li&gt;
+&lt;li&gt;新增文章阅读次数显示&lt;/li&gt;
+&lt;li&gt;新增底部网站运行时间显示&lt;/li&gt;
+&lt;li&gt;新增首页欢迎横幅&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;nested-list&#34;&gt;Nested list
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;Fruit
-&lt;ul&gt;
-&lt;li&gt;Apple&lt;/li&gt;
-&lt;li&gt;Orange&lt;/li&gt;
-&lt;li&gt;Banana&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Dairy
-&lt;ul&gt;
-&lt;li&gt;Milk&lt;/li&gt;
-&lt;li&gt;Cheese&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;other-elements--abbr-sub-sup-kbd-mark&#34;&gt;Other Elements — abbr, sub, sup, kbd, mark
-&lt;/h2&gt;&lt;p&gt;&lt;abbr title=&#34;Graphics Interchange Format&#34;&gt;GIF&lt;/abbr&gt; is a bitmap image format.&lt;/p&gt;
-&lt;p&gt;H&lt;sub&gt;2&lt;/sub&gt;O&lt;/p&gt;
-&lt;p&gt;X&lt;sup&gt;n&lt;/sup&gt; + Y&lt;sup&gt;n&lt;/sup&gt; = Z&lt;sup&gt;n&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&gt; + &lt;kbd&gt;ALT&lt;/kbd&gt; + &lt;kbd&gt;Delete&lt;/kbd&gt; to end the session.&lt;/p&gt;
-&lt;p&gt;Most &lt;mark&gt;salamanders&lt;/mark&gt; are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p&gt;
-&lt;h2 id=&#34;hyperlinked-image&#34;&gt;Hyperlinked image
-&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://google.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;img src=&#34;https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Google&#34;
-	
-	
-&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=PAAkCSZUG1c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;talk&lt;/a&gt; during Gopherfest, November 18, 2015.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</description>
-        </item>
-        <item>
-        <title>Math Typesetting</title>
-        <link>https://example.com/p/math-typesetting/</link>
-        <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/p/math-typesetting/</guid>
-        <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
-&lt;p&gt;In this example we will be using &lt;a class=&#34;link&#34; href=&#34;https://katex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;KaTeX&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Create a partial under &lt;code&gt;/layouts/partials/math.html&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Within this partial reference the &lt;a class=&#34;link&#34; href=&#34;https://katex.org/docs/autorender.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Auto-render Extension&lt;/a&gt; or host these scripts locally.&lt;/li&gt;
-&lt;li&gt;Include the partial in your templates like so:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; or .Params.math .Site.Params.math &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; partial &lt;span class=&#34;s2&#34;&gt;&amp;#34;math.html&amp;#34;&lt;/span&gt; . &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; end &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;To enable KaTeX globally set the parameter &lt;code&gt;math&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in a project&amp;rsquo;s configuration&lt;/li&gt;
-&lt;li&gt;To enable KaTeX on a per page basis include the parameter &lt;code&gt;math: true&lt;/code&gt; in content files&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Use the online reference of &lt;a class=&#34;link&#34; href=&#34;https://katex.org/docs/supported.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Supported TeX Functions&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;examples&#34;&gt;Examples
-&lt;/h3&gt;&lt;p&gt;Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$&lt;/p&gt;
-&lt;p&gt;Block math:
-&lt;/p&gt;
-$$
- \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
-$$</description>
-        </item>
-        <item>
-        <title>Emoji Support</title>
-        <link>https://example.com/p/emoji-support/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/p/emoji-support/</guid>
-        <description>&lt;img src="https://example.com/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
-&lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;To enable emoji globally, set &lt;code&gt;enableEmoji&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in your site&amp;rsquo;s &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/getting-started/configuration/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙈&lt;/span&gt; &lt;code&gt;:see_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙉&lt;/span&gt; &lt;code&gt;:hear_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙊&lt;/span&gt; &lt;code&gt;:speak_no_evil:&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;http://www.emoji-cheat-sheet.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Emoji cheat sheet&lt;/a&gt; is a useful reference for emoji shorthand codes.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;N.B.&lt;/strong&gt; The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;.emoji {
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
+</description>
         </item>
         <item>
         <title>关于</title>
-        <link>https://example.com/%E5%85%B3%E4%BA%8E/</link>
+        <link>https://arashiizayoi.xin/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://arashiizayoi.xin/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;Hey，我是十六夜岚（Arashi Izayoi, &lt;em&gt;@Arashi_Izayoi&lt;/em&gt;），一个略懂软件工程与热爱ACG文化的普通青年，主要从事前端方向的开发，希望有朝一日成为有艺术细胞的开发者。&lt;/p&gt;
-&lt;p&gt;对未知事物会充满兴趣：诸如医学，生物学，地理学，物理学，计算机科学，历史，人文等。喜欢看书和音乐，常常因为接触未知的新鲜事物投入太多，而忘记时间。&lt;/p&gt;
-&lt;h5 id=&#34;关于博客&#34;&gt;关于博客
-&lt;/h5&gt;&lt;ul&gt;
+&lt;p&gt;对未知事物会充满兴趣：诸如医学，生物学，地理学，物理学，计算机科学，历史，人文等。喜欢看书和音乐，常常因为接触未知的新鲜事物投入太多，而忘记时间&amp;hellip;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;总之，欢迎你的到来，还请多多指教！&lt;/p&gt;
+&lt;h3 id=&#34;关于博客&#34;&gt;关于博客
+&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;拥有一个简易的个人网站，总觉得是一件很酷的事
 &lt;br&gt;
-在3年前的暑假（2022），正值高考后，从繁忙的学业中挣脱出来的我，就想着着手做一些自己感兴趣的事。从小就对互联网以及一些科技产品感兴趣的我于是就开始从这里开始切入。一次偶然的机会我从我的表哥（现在看来算是我的前辈，因为都学一样的专业）那得知他有自己的个人网站。于是就有了想创建个人网站的想法。那时对于没有专业知识的我只能通过自学加上表哥的指导来完成这项工作。大概折腾了3天左右我的个人网站就完成了。但由于高昂的服务器费用这个个人网站只持续了一个暑假的时间就结束了。可能是因为多少一点执念吧？从第一个个人网站到现在这个重新建起来的个人网站这个期间，时不时就会有再做一个个人网站的想法，直到现在我再次拥有它了。
+在3年前的暑假（2022），正值高考后，从繁忙的学业中挣脱出来的我，就想着着手做一些自己感兴趣的事。从小就对互联网以及一些科技产品感兴趣的我于是就开始从这里开始切入。一次偶然的机会我从我的表哥（现在看来算是我的前辈，因为都学一样的专业）那得知他有自己的个人网站。于是就有了想创建个人网站的想法。那时对于没有专业知识的我只能通过自学加上表哥的指导来完成这项工作。大概折腾了3天左右我的个人网站就完成了。但由于高昂的服务器费用这个个人网站只持续了一个暑假的时间就结束了。可能是因为多少一点执念吧？从第一个个人网站停运到重新建站的这段时间，时不时就会有再做一个个人网站的想法，直到现在我再次拥有它了。
 &lt;br&gt;
-这已经是第三代个人主页了，使用了Hugo的博客构建器与第二代（没有构建器，使用的是Hux的博客模板，并在此基础上定制化）略有不同，没想到的是第二代博客只运行了一个月就停运了（2025.3.21~4.21），因为是头一次改别人的项目，改到后面发现变得臃肿了，而且打开也不流畅,于是便有了开发第三代博客的想法。（2025.4）&lt;/li&gt;
+这已经是第三代个人主页了，使用了Hugo的博客构建器与第二代（没有构建器，使用的是Hux大佬的博客模板，并在此基础上定制化）略有不同，没想到的是第二代博客只运行了一个月就停运了（2025.3.21~4.21），因为是头一次改别人的项目，改到后面发现变得臃肿了，而且打开也不流畅,于是便有了开发第三代博客的想法。（2025.4）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h5 id=&#34;关于自设&#34;&gt;关于自设
-&lt;/h5&gt;&lt;ul&gt;
+&lt;h3 id=&#34;关于自设&#34;&gt;关于自设
+&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;都上网了，那至少换一下形象！
 &lt;br&gt;
 全名十六夜岚，十六夜取自东方Project的十六夜咲夜的姓（老车万人了），因为自己非常喜欢这个角色，加上本身有夜晚的含义，自己也是一个夜猫子故取“十六夜”为自设形象的姓
@@ -432,18 +188,18 @@ $$</description>
         </item>
         <item>
         <title>搜索</title>
-        <link>https://example.com/search/</link>
+        <link>https://arashiizayoi.xin/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/search/</guid>
+        <guid>https://arashiizayoi.xin/search/</guid>
         <description></description>
         </item>
         <item>
         <title>友情链接</title>
-        <link>https://example.com/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
+        <link>https://arashiizayoi.xin/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
+        <guid>https://arashiizayoi.xin/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
         <description>&lt;p&gt;暂时没有朋友，以下是一些技术网站&lt;/p&gt;
 </description>
         </item>

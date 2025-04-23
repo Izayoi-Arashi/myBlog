@@ -2,37 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on 雨缄信笺</title>
-        <link>https://example.com/page/</link>
+        <link>https://arashiizayoi.xin/page/</link>
         <description>Recent content in Pages on 雨缄信笺</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Arashi Izayoi 十六夜岚</copyright>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://arashiizayoi.xin/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>归档</title>
-        <link>https://example.com/archives/</link>
+        <link>https://arashiizayoi.xin/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/archives/</guid>
+        <guid>https://arashiizayoi.xin/archives/</guid>
         <description></description>
         </item>
         <item>
-        <title>关于</title>
-        <link>https://example.com/%E5%85%B3%E4%BA%8E/</link>
+        <title>更新日志 &amp; 公告</title>
+        <link>https://arashiizayoi.xin/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-%E5%85%AC%E5%91%8A/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;Hey，我是十六夜岚（Arashi Izayoi, &lt;em&gt;@Arashi_Izayoi&lt;/em&gt;），一个略懂软件工程与热爱ACG文化的普通青年，主要从事前端方向的开发，希望有朝一日成为有艺术细胞的开发者。&lt;/p&gt;
-&lt;p&gt;对未知事物会充满兴趣：诸如医学，生物学，地理学，物理学，计算机科学，历史，人文等。喜欢看书和音乐，常常因为接触未知的新鲜事物投入太多，而忘记时间。&lt;/p&gt;
-&lt;h5 id=&#34;关于博客&#34;&gt;关于博客
+        <guid>https://arashiizayoi.xin/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-%E5%85%AC%E5%91%8A/</guid>
+        <description>&lt;h3 id=&#34;公告&#34;&gt;公告
+&lt;/h3&gt;  &lt;br&gt;
+      你好！欢迎来到我的个人主页！“雨缄云笺愁未题，风锁暮窗意转迷。”这里是十六夜岚，这是一个普普通通的小窝，站长花了3天时间建成的。在未来这里会断断续续发布一些文章，或者增加一些新功能。如果有什么问题可以通过头像底部的社交账号反馈给站长哦！
+	  推荐使用PC访问，效果更佳！
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h5 id=&#34;-新功能&#34;&gt;✨ &lt;strong&gt;新功能&lt;/strong&gt;
 &lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;新增音乐播放器&lt;/li&gt;
+&lt;li&gt;新增动态背景&lt;/li&gt;
+&lt;li&gt;新增网页过渡动画&lt;/li&gt;
+&lt;li&gt;新增回到顶部选项（PC）&lt;/li&gt;
+&lt;li&gt;新增顶部加载进度条&lt;/li&gt;
+&lt;li&gt;新增文章阅读次数显示&lt;/li&gt;
+&lt;li&gt;新增底部网站运行时间显示&lt;/li&gt;
+&lt;li&gt;新增首页欢迎横幅&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>https://arashiizayoi.xin/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://arashiizayoi.xin/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;p&gt;Hey，我是十六夜岚（Arashi Izayoi, &lt;em&gt;@Arashi_Izayoi&lt;/em&gt;），一个略懂软件工程与热爱ACG文化的普通青年，主要从事前端方向的开发，希望有朝一日成为有艺术细胞的开发者。&lt;/p&gt;
+&lt;p&gt;对未知事物会充满兴趣：诸如医学，生物学，地理学，物理学，计算机科学，历史，人文等。喜欢看书和音乐，常常因为接触未知的新鲜事物投入太多，而忘记时间&amp;hellip;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;总之，欢迎你的到来，还请多多指教！&lt;/p&gt;
+&lt;h3 id=&#34;关于博客&#34;&gt;关于博客
+&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;拥有一个简易的个人网站，总觉得是一件很酷的事
 &lt;br&gt;
-在3年前的暑假（2022），正值高考后，从繁忙的学业中挣脱出来的我，就想着着手做一些自己感兴趣的事。从小就对互联网以及一些科技产品感兴趣的我于是就开始从这里开始切入。一次偶然的机会我从我的表哥（现在看来算是我的前辈，因为都学一样的专业）那得知他有自己的个人网站。于是就有了想创建个人网站的想法。那时对于没有专业知识的我只能通过自学加上表哥的指导来完成这项工作。大概折腾了3天左右我的个人网站就完成了。但由于高昂的服务器费用这个个人网站只持续了一个暑假的时间就结束了。可能是因为多少一点执念吧？从第一个个人网站到现在这个重新建起来的个人网站这个期间，时不时就会有再做一个个人网站的想法，直到现在我再次拥有它了。
+在3年前的暑假（2022），正值高考后，从繁忙的学业中挣脱出来的我，就想着着手做一些自己感兴趣的事。从小就对互联网以及一些科技产品感兴趣的我于是就开始从这里开始切入。一次偶然的机会我从我的表哥（现在看来算是我的前辈，因为都学一样的专业）那得知他有自己的个人网站。于是就有了想创建个人网站的想法。那时对于没有专业知识的我只能通过自学加上表哥的指导来完成这项工作。大概折腾了3天左右我的个人网站就完成了。但由于高昂的服务器费用这个个人网站只持续了一个暑假的时间就结束了。可能是因为多少一点执念吧？从第一个个人网站停运到重新建站的这段时间，时不时就会有再做一个个人网站的想法，直到现在我再次拥有它了。
 &lt;br&gt;
-这已经是第三代个人主页了，使用了Hugo的博客构建器与第二代（没有构建器，使用的是Hux的博客模板，并在此基础上定制化）略有不同，没想到的是第二代博客只运行了一个月就停运了（2025.3.21~4.21），因为是头一次改别人的项目，改到后面发现变得臃肿了，而且打开也不流畅,于是便有了开发第三代博客的想法。（2025.4）&lt;/li&gt;
+这已经是第三代个人主页了，使用了Hugo的博客构建器与第二代（没有构建器，使用的是Hux大佬的博客模板，并在此基础上定制化）略有不同，没想到的是第二代博客只运行了一个月就停运了（2025.3.21~4.21），因为是头一次改别人的项目，改到后面发现变得臃肿了，而且打开也不流畅,于是便有了开发第三代博客的想法。（2025.4）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h5 id=&#34;关于自设&#34;&gt;关于自设
-&lt;/h5&gt;&lt;ul&gt;
+&lt;h3 id=&#34;关于自设&#34;&gt;关于自设
+&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;都上网了，那至少换一下形象！
 &lt;br&gt;
 全名十六夜岚，十六夜取自东方Project的十六夜咲夜的姓（老车万人了），因为自己非常喜欢这个角色，加上本身有夜晚的含义，自己也是一个夜猫子故取“十六夜”为自设形象的姓
@@ -43,18 +68,18 @@
         </item>
         <item>
         <title>搜索</title>
-        <link>https://example.com/search/</link>
+        <link>https://arashiizayoi.xin/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/search/</guid>
+        <guid>https://arashiizayoi.xin/search/</guid>
         <description></description>
         </item>
         <item>
         <title>友情链接</title>
-        <link>https://example.com/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
+        <link>https://arashiizayoi.xin/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
+        <guid>https://arashiizayoi.xin/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
         <description>&lt;p&gt;暂时没有朋友，以下是一些技术网站&lt;/p&gt;
 </description>
         </item>
