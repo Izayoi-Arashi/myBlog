@@ -7,15 +7,41 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Arashi Izayoi 十六夜岚</copyright>
-        <lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://arashiizayoi.xin/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://arashiizayoi.xin/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>更新日志02</title>
+        <link>https://arashiizayoi.xin/p/ud02/</link>
+        <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://arashiizayoi.xin/p/ud02/</guid>
+        <description>&lt;img src="https://arashiizayoi.xin/p/ud02/cover.png" alt="Featured image of post 更新日志02" /&gt;&lt;blockquote&gt;
+&lt;p&gt;1.2版本更新&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;-新功能&#34;&gt;✨ &lt;strong&gt;新功能&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;新增日历组件（PC）&lt;/li&gt;
+&lt;li&gt;新增底部文章数和文章字数统计&lt;/li&gt;
+&lt;li&gt;新增评论功能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-问题修复与优化&#34;&gt;🐞 &lt;strong&gt;问题修复与优化&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;将“更新日志 &amp;amp; 公告” 选项改为“时间轴”，将更新内容以独立文章进行显示，点击时间轴上的标题可进行页面跳转&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;优化了页脚的排版&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>山</title>
-        <link>https://arashiizayoi.xin/p/see/</link>
+        <link>https://arashiizayoi.xin/p/see01/</link>
         <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://arashiizayoi.xin/p/see/</guid>
-        <description>&lt;img src="https://arashiizayoi.xin/p/see/cover.jpg" alt="Featured image of post 山" /&gt;&lt;blockquote&gt;
+        <guid>https://arashiizayoi.xin/p/see01/</guid>
+        <description>&lt;img src="https://arashiizayoi.xin/p/see01/cover.jpg" alt="Featured image of post 山" /&gt;&lt;blockquote&gt;
 &lt;p&gt;这篇文章转载自Arashi的日记，略有删改  | 封面：夕凪&lt;/p&gt;&lt;/blockquote&gt;
-&lt;div&gt;
+&lt;h3 id=&#34;&#34;&gt;
+&lt;/h3&gt;&lt;div&gt;
     &lt;blockquote&gt;作于2024.10
     &lt;br&gt;
     &lt;br&gt;&lt;b&gt;
@@ -25,13 +51,14 @@
         </item>
         <item>
         <title>一场失与得的思考</title>
-        <link>https://arashiizayoi.xin/p/book/</link>
+        <link>https://arashiizayoi.xin/p/book01/</link>
         <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://arashiizayoi.xin/p/book/</guid>
-        <description>&lt;img src="https://arashiizayoi.xin/p/book/cover.jpg" alt="Featured image of post 一场失与得的思考" /&gt;&lt;blockquote&gt;
+        <guid>https://arashiizayoi.xin/p/book01/</guid>
+        <description>&lt;img src="https://arashiizayoi.xin/p/book01/cover.jpg" alt="Featured image of post 一场失与得的思考" /&gt;&lt;blockquote&gt;
 &lt;p&gt;这篇文章为原创文章&lt;/p&gt;&lt;/blockquote&gt;
-&lt;div&gt;
+&lt;h3 id=&#34;&#34;&gt;
+&lt;/h3&gt;&lt;div&gt;
     &lt;blockquote&gt;“穿过‘浦岛隧道’，就能得到你最想要的东西，但代价是——失去一些宝贵的东西。”
     &lt;br&gt;
     &lt;br&gt;&lt;b&gt;在乡下小镇香崎上流传着一个这样神秘的都市传说男主角塔野薰，因为五年前失去了最亲的妹妹，一直心怀愧疚与悲伤。某天，他无意间发现了传说中的“浦岛隧道”。在探查过程中，他遇到了刚转学来的少女花城杏子。
@@ -48,11 +75,11 @@
         </item>
         <item>
         <title>歌曲分享01</title>
-        <link>https://arashiizayoi.xin/p/pjsk/</link>
+        <link>https://arashiizayoi.xin/p/pjsk01/</link>
         <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://arashiizayoi.xin/p/pjsk/</guid>
-        <description>&lt;img src="https://arashiizayoi.xin/p/pjsk/25.jpg" alt="Featured image of post 歌曲分享01" /&gt;&lt;blockquote&gt;
+        <guid>https://arashiizayoi.xin/p/pjsk01/</guid>
+        <description>&lt;img src="https://arashiizayoi.xin/p/pjsk01/25.jpg" alt="Featured image of post 歌曲分享01" /&gt;&lt;blockquote&gt;
 &lt;p&gt;这篇文章为原创文章&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;-偶然的相遇&#34;&gt;🎼 偶然的相遇
 &lt;/h2&gt;&lt;p&gt;第一次听这首歌的时候还没入坑游戏，也不知道这个团体到底是个什么样的团体，大概是因为v曲听多了网易云音乐就给我推了。本来以为就是一首普通的歌曲，像往常一下稍微听一下就差不多了。直到这首歌的高潮部分深深地把我打动了，有一种被触动的感觉。自把它加进自己的歌单后，与这个团体（25時、ナイトコードで）缘分就此开始了。我开始了解到这是一个音乐手游里的OC团体，了解到他们的其他歌曲也是如此的温暖。在这样的好奇心驱使下，我开始入坑这款游戏，并开始了解他们的故事（曾一口气通宵看他们的主线故事），得知这样温暖的背后，是因为他们各自背负着来自所处环境的枷锁。但好在他们是个团体可以互相帮助互相依靠并渐渐走出阴影，我想正是因为这样他们才能写出让人感到温暖的曲子。于现实中的我而言，在我深陷泥泞时他们的歌就是生活必需品，让我走出困境。&lt;/p&gt;
@@ -125,6 +152,28 @@
 &lt;p&gt;歌词来源：网易云音乐&lt;/p&gt;
 &lt;h2 id=&#34;-在线收听&#34;&gt;🎧 在线收听
 &lt;/h2&gt;&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=330 height=86 src=&#34;//music.163.com/outchain/player?type=2&amp;id=2114394281&amp;auto=0&amp;height=66&#34;&gt;&lt;/iframe&gt;
+</description>
+        </item>
+        <item>
+        <title>更新日志01</title>
+        <link>https://arashiizayoi.xin/p/ud01/</link>
+        <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://arashiizayoi.xin/p/ud01/</guid>
+        <description>&lt;img src="https://arashiizayoi.xin/p/ud01/cover.png" alt="Featured image of post 更新日志01" /&gt;&lt;blockquote&gt;
+&lt;p&gt;1.1版本更新&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;-新功能&#34;&gt;✨ &lt;strong&gt;新功能&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;新增音乐播放器&lt;/li&gt;
+&lt;li&gt;新增动态背景&lt;/li&gt;
+&lt;li&gt;新增网页过渡动画&lt;/li&gt;
+&lt;li&gt;新增回到顶部选项（PC）&lt;/li&gt;
+&lt;li&gt;新增顶部加载进度条&lt;/li&gt;
+&lt;li&gt;新增文章阅读次数显示&lt;/li&gt;
+&lt;li&gt;新增底部网站运行时间显示&lt;/li&gt;
+&lt;li&gt;新增首页欢迎横幅&lt;/li&gt;
+&lt;li&gt;新增目录折叠功能&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         

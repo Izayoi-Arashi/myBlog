@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>更新日志 on 雨缄信笺</title>
+        <link>https://arashiizayoi.xin/categories/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</link>
+        <description>Recent content in 更新日志 on 雨缄信笺</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Arashi Izayoi 十六夜岚</copyright>
+        <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://arashiizayoi.xin/categories/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>更新日志02</title>
+        <link>https://arashiizayoi.xin/p/ud02/</link>
+        <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://arashiizayoi.xin/p/ud02/</guid>
+        <description>&lt;img src="https://arashiizayoi.xin/p/ud02/cover.png" alt="Featured image of post 更新日志02" /&gt;&lt;blockquote&gt;
+&lt;p&gt;1.2版本更新&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;-新功能&#34;&gt;✨ &lt;strong&gt;新功能&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;新增日历组件（PC）&lt;/li&gt;
+&lt;li&gt;新增底部文章数和文章字数统计&lt;/li&gt;
+&lt;li&gt;新增评论功能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-问题修复与优化&#34;&gt;🐞 &lt;strong&gt;问题修复与优化&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;将“更新日志 &amp;amp; 公告” 选项改为“时间轴”，将更新内容以独立文章进行显示，点击时间轴上的标题可进行页面跳转&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;优化了页脚的排版&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>更新日志01</title>
+        <link>https://arashiizayoi.xin/p/ud01/</link>
+        <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://arashiizayoi.xin/p/ud01/</guid>
+        <description>&lt;img src="https://arashiizayoi.xin/p/ud01/cover.png" alt="Featured image of post 更新日志01" /&gt;&lt;blockquote&gt;
+&lt;p&gt;1.1版本更新&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;-新功能&#34;&gt;✨ &lt;strong&gt;新功能&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;新增音乐播放器&lt;/li&gt;
+&lt;li&gt;新增动态背景&lt;/li&gt;
+&lt;li&gt;新增网页过渡动画&lt;/li&gt;
+&lt;li&gt;新增回到顶部选项（PC）&lt;/li&gt;
+&lt;li&gt;新增顶部加载进度条&lt;/li&gt;
+&lt;li&gt;新增文章阅读次数显示&lt;/li&gt;
+&lt;li&gt;新增底部网站运行时间显示&lt;/li&gt;
+&lt;li&gt;新增首页欢迎横幅&lt;/li&gt;
+&lt;li&gt;新增目录折叠功能&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

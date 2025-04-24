@@ -7,11 +7,11 @@
 
 <link rel='canonical' href='https://arashiizayoi.xin/'>
 
-<link rel="stylesheet" href="/scss/style.min.d1501d423f1c842cf9e87dcbd61cd4357a6c18c1ed6885cd114ef2cefc95c85d.css"><meta property='og:title' content="雨缄信笺">
+<link rel="stylesheet" href="/scss/style.min.8d0e3ec960f0ef0c69bd639e24a714871159382d469bfd900ac831e5454a024d.css"><meta property='og:title' content="雨缄信笺">
 <meta property='og:description' content="十六夜岚 | 倚楼听风雨，淡看江湖路">
 <meta property='og:url' content='https://arashiizayoi.xin/'>
 <meta property='og:site_name' content='雨缄信笺'>
-<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2025-04-23T00:00:00&#43;00:00 '/>
+<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2025-04-24T00:00:00&#43;00:00 '/>
 <meta name="twitter:title" content="雨缄信笺">
 <meta name="twitter:description" content="十六夜岚 | 倚楼听风雨，淡看江湖路"><link rel="alternate" type="application/rss&#43;xml" href="https://arashiizayoi.xin/index.xml">
     <link rel="shortcut icon" href="/favicon.ico" />
@@ -147,13 +147,13 @@
         
         
         <li >
-            <a href='/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-%E5%85%AC%E5%91%8A/' >
+            <a href='/%E6%97%B6%E9%97%B4%E8%BD%B4/' >
                 
                 
                 
                     <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-list"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 6l11 0" /><path d="M9 12l11 0" /><path d="M9 18l11 0" /><path d="M5 6l0 .01" /><path d="M5 12l0 .01" /><path d="M5 18l0 .01" /></svg>
                 
-                <span>更新日志 &amp; 公告</span>
+                <span>时间轴</span>
             </a>
         </li>
         
@@ -245,6 +245,65 @@
 </aside>
 
     <aside class="sidebar right-sidebar sticky">
+        <div class="calendar">
+  <div class="calendar-header">
+    <span id="monthTitle"></span>
+  </div>
+  <div class="calendar-grid">
+    <div class="day-header">Sun</div>
+    <div class="day-header">Mon</div>
+    <div class="day-header">Tue</div>
+    <div class="day-header">Wed</div>
+    <div class="day-header">Thu</div>
+    <div class="day-header">Fri</div>
+    <div class="day-header">Sat</div>
+    <div id="calendarBody" class="calendar-body"></div>
+  </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const today = new Date();
+    const currentMonth = today.getMonth();
+    const currentYear = today.getFullYear();
+    const currentDate = today.getDate();
+    
+    const monthTitle = document.getElementById('monthTitle');
+    const calendarBody = document.getElementById('calendarBody');
+    
+    
+    monthTitle.innerText = `${currentYear}年 ${currentMonth + 1}月`;
+
+    
+    const firstDay = new Date(currentYear, currentMonth, 1).getDay();
+    
+    const daysInMonth = new Date(currentYear, currentMonth + 1, 0).getDate();
+
+    
+    calendarBody.innerHTML = '';
+
+    
+    for (let i = 0; i < firstDay; i++) {
+      const emptyDiv = document.createElement('div');
+      calendarBody.appendChild(emptyDiv);
+    }
+
+    
+    for (let day = 1; day <= daysInMonth; day++) {
+      const dayDiv = document.createElement('div');
+      dayDiv.classList.add('day');
+      dayDiv.innerText = day;
+
+      
+      if (day === currentDate) {
+        dayDiv.classList.add('today');
+      }
+
+      calendarBody.appendChild(dayDiv);
+    }
+  });
+</script>
+
         
             
                 <form action="/search/" class="search-form widget" >
@@ -289,7 +348,7 @@
                     <a href="/archives/#2025">
                         
                             <span class="year">2025</span>
-                            <span class="count">3</span>
+                            <span class="count">5</span>
                         
                     </a> 
                 </div>
@@ -318,6 +377,10 @@
         
             <a href="/categories/%E8%BF%81%E7%A7%BB/" class="font_size_3">
                 迁移
+            </a>
+        
+            <a href="/categories/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/" class="font_size_2">
+                更新日志
             </a>
         
             <a href="/categories/%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5%E7%BC%A4%E7%BA%B7%E8%88%9E%E5%8F%B0/" class="font_size_1">
@@ -373,9 +436,100 @@
 <article class="has-image">
     <header class="article-header">
         <div class="article-image">
-            <a href="/p/see/">
-                <img src="/p/see/cover_hu_f93ca76c348340c7.jpg"
-                        srcset="/p/see/cover_hu_f93ca76c348340c7.jpg 800w, /p/see/cover_hu_1e7abee1ae9e72a6.jpg 1600w"
+            <a href="/p/ud02/">
+                <img src="/p/ud02/cover_hu_675d593630d534ed.png"
+                        srcset="/p/ud02/cover_hu_675d593630d534ed.png 800w, /p/ud02/cover_hu_c74b4b290659d1a8.png 1600w"
+                        width="800" 
+                        height="439" 
+                        loading="lazy"
+                        alt="Featured image of post 更新日志02" />
+                
+            </a>
+        </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/" style="background-color: #2a9d8f; color: #fff;">
+                更新日志
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/ud02/">更新日志02</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            v1.2版本更新
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Apr 24, 2025</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    阅读时长: 1 分钟
+                </time>
+            </div>
+        
+         
+         <div id="viewCount">
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-eye"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M10 12a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" /><path d="M21 12c-2.4 4 -5.4 6 -9 6c-3.6 0 -6.6 -2 -9 -6c2.4 -4 5.4 -6 9 -6c3.6 0 6.6 2 9 6" /></svg>
+            <time class="article-time--reading">
+                
+                <span id="vercount_value_page_pv">loading... </span>次
+            </time>
+        </div>
+    </footer>
+    
+
+    
+</div>
+
+</header>
+</article>
+        
+            
+<article class="has-image">
+    <header class="article-header">
+        <div class="article-image">
+            <a href="/p/see01/">
+                <img src="/p/see01/cover_hu_f93ca76c348340c7.jpg"
+                        srcset="/p/see01/cover_hu_f93ca76c348340c7.jpg 800w, /p/see01/cover_hu_1e7abee1ae9e72a6.jpg 1600w"
                         width="800" 
                         height="1193" 
                         loading="lazy"
@@ -402,7 +556,7 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/p/see/">山</a>
+            <a href="/p/see01/">山</a>
         </h2>
     
         
@@ -468,9 +622,9 @@
 <article class="has-image">
     <header class="article-header">
         <div class="article-image">
-            <a href="/p/book/">
-                <img src="/p/book/cover_hu_dcedd928f447c214.jpg"
-                        srcset="/p/book/cover_hu_dcedd928f447c214.jpg 800w, /p/book/cover_hu_6777721cfa5e588c.jpg 1600w"
+            <a href="/p/book01/">
+                <img src="/p/book01/cover_hu_dcedd928f447c214.jpg"
+                        srcset="/p/book01/cover_hu_dcedd928f447c214.jpg 800w, /p/book01/cover_hu_6777721cfa5e588c.jpg 1600w"
                         width="800" 
                         height="450" 
                         loading="lazy"
@@ -497,7 +651,7 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/p/book/">一场失与得的思考</a>
+            <a href="/p/book01/">一场失与得的思考</a>
         </h2>
     
         
@@ -559,106 +713,22 @@
 </header>
 </article>
         
-            
-<article class="has-image">
-    <header class="article-header">
-        <div class="article-image">
-            <a href="/p/pjsk/">
-                <img src="/p/pjsk/25_hu_e56850572b49df61.jpg"
-                        srcset="/p/pjsk/25_hu_e56850572b49df61.jpg 800w, /p/pjsk/25_hu_7af32283f4bf2cd6.jpg 1600w"
-                        width="800" 
-                        height="500" 
-                        loading="lazy"
-                        alt="Featured image of post 歌曲分享01" />
-                
-            </a>
-        </div>
-    
-
-    <div class="article-details">
-    
-    <header class="article-category">
-        
-            <a href="/categories/%E9%9F%B3%E4%B9%90/" style="background-color: #2a9d8f; color: #fff;">
-                音乐
-            </a>
-        
-            <a href="/categories/%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5%E7%BC%A4%E7%BA%B7%E8%88%9E%E5%8F%B0/" style="background-color: #2a9d8f; color: #fff;">
-                初音未来：缤纷舞台
-            </a>
-        
-            <a href="/categories/%E8%BF%81%E7%A7%BB/" style="background-color: #2a9d8f; color: #fff;">
-                迁移
-            </a>
-        
-    </header>
-    
-
-    <div class="article-title-wrapper">
-        <h2 class="article-title">
-            <a href="/p/pjsk/">歌曲分享01</a>
-        </h2>
-    
-        
-        <h3 class="article-subtitle">
-            互相拯救的一群人
-        </h3>
-        
-    </div>
-
-    
-    
-    
-    
-    <footer class="article-time">
-        
-            <div>
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
-  <circle cx="18" cy="18" r="4" />
-  <path d="M15 3v4" />
-  <path d="M7 3v4" />
-  <path d="M3 11h16" />
-  <path d="M18 16.496v1.504l1 1" />
-</svg>
-                <time class="article-time--published">Apr 21, 2025</time>
-            </div>
-        
-
-        
-            <div>
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="12" cy="12" r="9" />
-  <polyline points="12 7 12 12 15 15" />
-</svg>
-
-
-
-                <time class="article-time--reading">
-                    阅读时长: 3 分钟
-                </time>
-            </div>
-        
-         
-         <div id="viewCount">
-            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-eye"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M10 12a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" /><path d="M21 12c-2.4 4 -5.4 6 -9 6c-3.6 0 -6.6 -2 -9 -6c2.4 -4 5.4 -6 9 -6c3.6 0 6.6 2 9 6" /></svg>
-            <time class="article-time--reading">
-                
-                <span id="vercount_value_page_pv">loading... </span>次
-            </time>
-        </div>
-    </footer>
-    
-
-    
-</div>
-
-</header>
-</article>
-        
     </section>
+    <nav class='pagination'>
+        
+        
+
+        
+            
+                <span class='page-link current'>1</span>
+                
+            
+            
+                    <a class='page-link' href='/page/2/'>2</a>
+                
+            
+    </nav>
+
 <footer class="site-footer">
     <section class="copyright">
         &copy; 
@@ -667,11 +737,13 @@
     </section>
     
     <section class="powerby">
+        <a href="https://icp.gov.moe/?keyword=20250486" target="_blank">萌ICP备20250486号</a>
+        |
         
             十六夜岚的个人主页 <br/>
         使用 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> 构建 <br />
         主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.30.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计
-        <br>
+        |
         <span>由Arashi定制</span>
         <br>
         <span id="timeDate">载入天数...</span><span id="times">载入时分秒...</span>
@@ -697,7 +769,35 @@
                 document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒"
             }
             setInterval("createtime()",250); 
-        </script> 
+        </script> |
+         
+         
+             
+         
+             
+         
+             
+         
+             
+         
+             
+         
+             
+         
+             
+         
+             
+         
+             
+         
+             
+         
+         发表了5篇文章 · 
+         总计3.89k字
+         <br>
+         <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">
+            <img alt="Static Badge" src="https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-red?logo=creativecommons">
+         </a>          
     </section>
 </footer>
 

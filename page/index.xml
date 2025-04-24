@@ -16,30 +16,6 @@
         <description></description>
         </item>
         <item>
-        <title>更新日志 &amp; 公告</title>
-        <link>https://arashiizayoi.xin/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-%E5%85%AC%E5%91%8A/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://arashiizayoi.xin/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-%E5%85%AC%E5%91%8A/</guid>
-        <description>&lt;h3 id=&#34;公告&#34;&gt;公告
-&lt;/h3&gt;  &lt;br&gt;
-      你好！欢迎来到我的个人主页！“雨缄云笺愁未题，风锁暮窗意转迷。”这里是十六夜岚，这是一个普普通通的小窝，站长花了3天时间建成的。在未来这里会断断续续发布一些文章，或者增加一些新功能。如果有什么问题可以通过头像底部的社交账号反馈给站长哦！
-	  推荐使用PC访问，效果更佳！
-&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
-&lt;/h3&gt;&lt;h5 id=&#34;-新功能&#34;&gt;✨ &lt;strong&gt;新功能&lt;/strong&gt;
-&lt;/h5&gt;&lt;ul&gt;
-&lt;li&gt;新增音乐播放器&lt;/li&gt;
-&lt;li&gt;新增动态背景&lt;/li&gt;
-&lt;li&gt;新增网页过渡动画&lt;/li&gt;
-&lt;li&gt;新增回到顶部选项（PC）&lt;/li&gt;
-&lt;li&gt;新增顶部加载进度条&lt;/li&gt;
-&lt;li&gt;新增文章阅读次数显示&lt;/li&gt;
-&lt;li&gt;新增底部网站运行时间显示&lt;/li&gt;
-&lt;li&gt;新增首页欢迎横幅&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
         <title>关于</title>
         <link>https://arashiizayoi.xin/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -64,6 +40,1053 @@
 &lt;br&gt;
 至于名岚则是因为受到村上春树的一句话的启发“当你穿过风暴，你就不是原来那个人了”，岚意为风暴，我希望自己的心像风暴一样热烈，也希望自己能穿越风暴，历经磨练成为一个自立自强的人。&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>时间轴</title>
+        <link>https://arashiizayoi.xin/%E6%97%B6%E9%97%B4%E8%BD%B4/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://arashiizayoi.xin/%E6%97%B6%E9%97%B4%E8%BD%B4/</guid>
+        <description>&lt;p&gt;新的在前，旧的在后
+&lt;div class=&#34;timeline__row&#34;&gt;
+    &lt;div class=&#34;timeline__time&#34;&gt;
+        &lt;div class=&#34;timeline__time&#34;&gt;2025-04-24&lt;/div&gt;
+        &lt;div class=&#34;timeline__split-line&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;timeline__content&#34;&gt;
+        &lt;div class=&#34;timeline__tags&#34;&gt;
+            &lt;span class=&#34;timeline__tag&#34;&gt;博客&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;https://arashiizayoi.xin/p/ud02/&#34;&gt;
+            &lt;div class=&#34;timeline__title&#34;&gt;v1.2版本更新&lt;/div&gt;
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;timeline__description&#34;&gt;
+            增加了一些新功能，详情见具体文章
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+    .timeline {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .timeline__row {
+        display: flex;
+        padding-left: 4%;
+        height: 90px;
+    }
+    
+    .timeline__time {
+        flex: 0 0 110px;
+        color: #5d5d5d;
+        font-size: 17px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5rem 0;
+    }
+    
+    .timeline__time-text {
+        margin: 0;
+    }
+    
+    .timeline__split-line {
+        position: absolute;
+        top: 0.5rem;
+        right: -20px;
+        height: 100%;
+        width: 2px;
+        background-color: #84c4e240;
+        z-index: 0;
+    }
+    
+    .timeline__split-line:before {
+        content: &#34;&#34;;
+        position: absolute;
+        top: 24%;
+        right: -4px;
+        transform: translateY(-50%);
+        width: 10px;
+        height: 10px;
+        background-color: #c9e5f2;
+        box-shadow: 0 0 0 4px var(--theme);
+        border-radius: 50%;
+        border: 0px solid #84c4e2;
+        z-index: -1;
+    }
+    
+    .timeline__content {
+        flex: 1;
+        margin-left: 4.5rem;
+        padding: 0.5rem 0 1.2rem 0;
+    }
+    
+    .timeline__title {
+        margin: 0;
+        margin-bottom: 2px;
+        padding-top: 3px;
+        margin-left: 0.5rem;
+        color: var(--content);
+        font-family: var(--font-family-teshu);
+        font-size: 19px;
+        font-weight: 600;
+        width: fit-content;
+        display: inline-block;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__tags {
+        display: inline-block;
+        padding: 0;
+        margin-left: 0.3rem;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    
+    .timeline__tag {
+        display: inline-block;
+        color: var(--secondary);
+        background-color: #84c4e230;
+        border: 1.5px solid #84c4e230;
+        border-radius: 999px;
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+        white-space: nowrap;
+        line-height: 1.4rem;
+        opacity: 0.8;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__description {
+        font-size: 15px;
+        line-height: 1.6;
+        color: #5d5d5d;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0.5rem 0 0.4rem 1.5rem;
+         
+    }
+     
+    
+    .timeline__tag-style {
+        background-color: #c581da;
+         
+        border-color: #c581da;
+         
+        color: #FFFFFF;
+         
+    }
+     
+    
+    .timeline__tag-article {
+        background-color: #92d392;
+         
+        border-color: #92d392;
+         
+        color: #000000;
+         
+    }
+     
+    
+    .timeline__tag-page {
+        background-color: #707070;
+         
+        border-color: #707070;
+         
+        color: #FFFFFF;
+         
+    }
+    
+    @media screen and (max-width: 768px) {
+        .timeline__time {
+            font-size: 14px;
+             
+        }
+        .timeline__title {
+            font-size: 16px;
+             
+        }
+        .timeline__description {
+            font-size: 14px;
+             
+        }
+    }
+&lt;/style&gt;
+
+&lt;div class=&#34;timeline__row&#34;&gt;
+    &lt;div class=&#34;timeline__time&#34;&gt;
+        &lt;div class=&#34;timeline__time&#34;&gt;2025-04-23&lt;/div&gt;
+        &lt;div class=&#34;timeline__split-line&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;timeline__content&#34;&gt;
+        &lt;div class=&#34;timeline__tags&#34;&gt;
+            &lt;span class=&#34;timeline__tag timeline__tag-article&#34;&gt;文章&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;https://arashiizayoi.xin/p/see01/&#34;&gt;
+            &lt;div class=&#34;timeline__title&#34;&gt;迁移文章&lt;/div&gt;
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;timeline__description&#34;&gt;
+            迁移文章《山》
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+    .timeline {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .timeline__row {
+        display: flex;
+        padding-left: 4%;
+        height: 90px;
+    }
+    
+    .timeline__time {
+        flex: 0 0 110px;
+        color: #5d5d5d;
+        font-size: 17px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5rem 0;
+    }
+    
+    .timeline__time-text {
+        margin: 0;
+    }
+    
+    .timeline__split-line {
+        position: absolute;
+        top: 0.5rem;
+        right: -20px;
+        height: 100%;
+        width: 2px;
+        background-color: #84c4e240;
+        z-index: 0;
+    }
+    
+    .timeline__split-line:before {
+        content: &#34;&#34;;
+        position: absolute;
+        top: 24%;
+        right: -4px;
+        transform: translateY(-50%);
+        width: 10px;
+        height: 10px;
+        background-color: #c9e5f2;
+        box-shadow: 0 0 0 4px var(--theme);
+        border-radius: 50%;
+        border: 0px solid #84c4e2;
+        z-index: -1;
+    }
+    
+    .timeline__content {
+        flex: 1;
+        margin-left: 4.5rem;
+        padding: 0.5rem 0 1.2rem 0;
+    }
+    
+    .timeline__title {
+        margin: 0;
+        margin-bottom: 2px;
+        padding-top: 3px;
+        margin-left: 0.5rem;
+        color: var(--content);
+        font-family: var(--font-family-teshu);
+        font-size: 19px;
+        font-weight: 600;
+        width: fit-content;
+        display: inline-block;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__tags {
+        display: inline-block;
+        padding: 0;
+        margin-left: 0.3rem;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    
+    .timeline__tag {
+        display: inline-block;
+        color: var(--secondary);
+        background-color: #84c4e230;
+        border: 1.5px solid #84c4e230;
+        border-radius: 999px;
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+        white-space: nowrap;
+        line-height: 1.4rem;
+        opacity: 0.8;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__description {
+        font-size: 15px;
+        line-height: 1.6;
+        color: #5d5d5d;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0.5rem 0 0.4rem 1.5rem;
+         
+    }
+     
+    
+    .timeline__tag-style {
+        background-color: #c581da;
+         
+        border-color: #c581da;
+         
+        color: #FFFFFF;
+         
+    }
+     
+    
+    .timeline__tag-article {
+        background-color: #92d392;
+         
+        border-color: #92d392;
+         
+        color: #000000;
+         
+    }
+     
+    
+    .timeline__tag-page {
+        background-color: #707070;
+         
+        border-color: #707070;
+         
+        color: #FFFFFF;
+         
+    }
+    
+    @media screen and (max-width: 768px) {
+        .timeline__time {
+            font-size: 14px;
+             
+        }
+        .timeline__title {
+            font-size: 16px;
+             
+        }
+        .timeline__description {
+            font-size: 14px;
+             
+        }
+    }
+&lt;/style&gt;
+
+&lt;div class=&#34;timeline__row&#34;&gt;
+    &lt;div class=&#34;timeline__time&#34;&gt;
+        &lt;div class=&#34;timeline__time&#34;&gt;2025-04-22&lt;/div&gt;
+        &lt;div class=&#34;timeline__split-line&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;timeline__content&#34;&gt;
+        &lt;div class=&#34;timeline__tags&#34;&gt;
+            &lt;span class=&#34;timeline__tag timeline__tag-article&#34;&gt;文章&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;https://arashiizayoi.xin/p/book01/&#34;&gt;
+            &lt;div class=&#34;timeline__title&#34;&gt;迁移文章&lt;/div&gt;
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;timeline__description&#34;&gt;
+            迁移文章《一场失与得的思考》
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+    .timeline {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .timeline__row {
+        display: flex;
+        padding-left: 4%;
+        height: 90px;
+    }
+    
+    .timeline__time {
+        flex: 0 0 110px;
+        color: #5d5d5d;
+        font-size: 17px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5rem 0;
+    }
+    
+    .timeline__time-text {
+        margin: 0;
+    }
+    
+    .timeline__split-line {
+        position: absolute;
+        top: 0.5rem;
+        right: -20px;
+        height: 100%;
+        width: 2px;
+        background-color: #84c4e240;
+        z-index: 0;
+    }
+    
+    .timeline__split-line:before {
+        content: &#34;&#34;;
+        position: absolute;
+        top: 24%;
+        right: -4px;
+        transform: translateY(-50%);
+        width: 10px;
+        height: 10px;
+        background-color: #c9e5f2;
+        box-shadow: 0 0 0 4px var(--theme);
+        border-radius: 50%;
+        border: 0px solid #84c4e2;
+        z-index: -1;
+    }
+    
+    .timeline__content {
+        flex: 1;
+        margin-left: 4.5rem;
+        padding: 0.5rem 0 1.2rem 0;
+    }
+    
+    .timeline__title {
+        margin: 0;
+        margin-bottom: 2px;
+        padding-top: 3px;
+        margin-left: 0.5rem;
+        color: var(--content);
+        font-family: var(--font-family-teshu);
+        font-size: 19px;
+        font-weight: 600;
+        width: fit-content;
+        display: inline-block;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__tags {
+        display: inline-block;
+        padding: 0;
+        margin-left: 0.3rem;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    
+    .timeline__tag {
+        display: inline-block;
+        color: var(--secondary);
+        background-color: #84c4e230;
+        border: 1.5px solid #84c4e230;
+        border-radius: 999px;
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+        white-space: nowrap;
+        line-height: 1.4rem;
+        opacity: 0.8;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__description {
+        font-size: 15px;
+        line-height: 1.6;
+        color: #5d5d5d;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0.5rem 0 0.4rem 1.5rem;
+         
+    }
+     
+    
+    .timeline__tag-style {
+        background-color: #c581da;
+         
+        border-color: #c581da;
+         
+        color: #FFFFFF;
+         
+    }
+     
+    
+    .timeline__tag-article {
+        background-color: #92d392;
+         
+        border-color: #92d392;
+         
+        color: #000000;
+         
+    }
+     
+    
+    .timeline__tag-page {
+        background-color: #707070;
+         
+        border-color: #707070;
+         
+        color: #FFFFFF;
+         
+    }
+    
+    @media screen and (max-width: 768px) {
+        .timeline__time {
+            font-size: 14px;
+             
+        }
+        .timeline__title {
+            font-size: 16px;
+             
+        }
+        .timeline__description {
+            font-size: 14px;
+             
+        }
+    }
+&lt;/style&gt;
+
+&lt;div class=&#34;timeline__row&#34;&gt;
+    &lt;div class=&#34;timeline__time&#34;&gt;
+        &lt;div class=&#34;timeline__time&#34;&gt;2025-04-21&lt;/div&gt;
+        &lt;div class=&#34;timeline__split-line&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;timeline__content&#34;&gt;
+        &lt;div class=&#34;timeline__tags&#34;&gt;
+            &lt;span class=&#34;timeline__tag timeline__tag-article&#34;&gt;文章&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;https://arashiizayoi.xin/p/pjsk01/&#34;&gt;
+            &lt;div class=&#34;timeline__title&#34;&gt;迁移文章&lt;/div&gt;
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;timeline__description&#34;&gt;
+            迁移文章《歌曲分享01》
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+    .timeline {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .timeline__row {
+        display: flex;
+        padding-left: 4%;
+        height: 90px;
+    }
+    
+    .timeline__time {
+        flex: 0 0 110px;
+        color: #5d5d5d;
+        font-size: 17px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5rem 0;
+    }
+    
+    .timeline__time-text {
+        margin: 0;
+    }
+    
+    .timeline__split-line {
+        position: absolute;
+        top: 0.5rem;
+        right: -20px;
+        height: 100%;
+        width: 2px;
+        background-color: #84c4e240;
+        z-index: 0;
+    }
+    
+    .timeline__split-line:before {
+        content: &#34;&#34;;
+        position: absolute;
+        top: 24%;
+        right: -4px;
+        transform: translateY(-50%);
+        width: 10px;
+        height: 10px;
+        background-color: #c9e5f2;
+        box-shadow: 0 0 0 4px var(--theme);
+        border-radius: 50%;
+        border: 0px solid #84c4e2;
+        z-index: -1;
+    }
+    
+    .timeline__content {
+        flex: 1;
+        margin-left: 4.5rem;
+        padding: 0.5rem 0 1.2rem 0;
+    }
+    
+    .timeline__title {
+        margin: 0;
+        margin-bottom: 2px;
+        padding-top: 3px;
+        margin-left: 0.5rem;
+        color: var(--content);
+        font-family: var(--font-family-teshu);
+        font-size: 19px;
+        font-weight: 600;
+        width: fit-content;
+        display: inline-block;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__tags {
+        display: inline-block;
+        padding: 0;
+        margin-left: 0.3rem;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    
+    .timeline__tag {
+        display: inline-block;
+        color: var(--secondary);
+        background-color: #84c4e230;
+        border: 1.5px solid #84c4e230;
+        border-radius: 999px;
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+        white-space: nowrap;
+        line-height: 1.4rem;
+        opacity: 0.8;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__description {
+        font-size: 15px;
+        line-height: 1.6;
+        color: #5d5d5d;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0.5rem 0 0.4rem 1.5rem;
+         
+    }
+     
+    
+    .timeline__tag-style {
+        background-color: #c581da;
+         
+        border-color: #c581da;
+         
+        color: #FFFFFF;
+         
+    }
+     
+    
+    .timeline__tag-article {
+        background-color: #92d392;
+         
+        border-color: #92d392;
+         
+        color: #000000;
+         
+    }
+     
+    
+    .timeline__tag-page {
+        background-color: #707070;
+         
+        border-color: #707070;
+         
+        color: #FFFFFF;
+         
+    }
+    
+    @media screen and (max-width: 768px) {
+        .timeline__time {
+            font-size: 14px;
+             
+        }
+        .timeline__title {
+            font-size: 16px;
+             
+        }
+        .timeline__description {
+            font-size: 14px;
+             
+        }
+    }
+&lt;/style&gt;
+
+&lt;div class=&#34;timeline__row&#34;&gt;
+    &lt;div class=&#34;timeline__time&#34;&gt;
+        &lt;div class=&#34;timeline__time&#34;&gt;2025-04-21&lt;/div&gt;
+        &lt;div class=&#34;timeline__split-line&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;timeline__content&#34;&gt;
+        &lt;div class=&#34;timeline__tags&#34;&gt;
+            &lt;span class=&#34;timeline__tag&#34;&gt;博客&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;https://arashiizayoi.xin/p/ud01/&#34;&gt;
+            &lt;div class=&#34;timeline__title&#34;&gt;v1.1版本更新&lt;/div&gt;
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;timeline__description&#34;&gt;
+            增加了一些新功能，详情见具体文章
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+    .timeline {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .timeline__row {
+        display: flex;
+        padding-left: 4%;
+        height: 90px;
+    }
+    
+    .timeline__time {
+        flex: 0 0 110px;
+        color: #5d5d5d;
+        font-size: 17px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5rem 0;
+    }
+    
+    .timeline__time-text {
+        margin: 0;
+    }
+    
+    .timeline__split-line {
+        position: absolute;
+        top: 0.5rem;
+        right: -20px;
+        height: 100%;
+        width: 2px;
+        background-color: #84c4e240;
+        z-index: 0;
+    }
+    
+    .timeline__split-line:before {
+        content: &#34;&#34;;
+        position: absolute;
+        top: 24%;
+        right: -4px;
+        transform: translateY(-50%);
+        width: 10px;
+        height: 10px;
+        background-color: #c9e5f2;
+        box-shadow: 0 0 0 4px var(--theme);
+        border-radius: 50%;
+        border: 0px solid #84c4e2;
+        z-index: -1;
+    }
+    
+    .timeline__content {
+        flex: 1;
+        margin-left: 4.5rem;
+        padding: 0.5rem 0 1.2rem 0;
+    }
+    
+    .timeline__title {
+        margin: 0;
+        margin-bottom: 2px;
+        padding-top: 3px;
+        margin-left: 0.5rem;
+        color: var(--content);
+        font-family: var(--font-family-teshu);
+        font-size: 19px;
+        font-weight: 600;
+        width: fit-content;
+        display: inline-block;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__tags {
+        display: inline-block;
+        padding: 0;
+        margin-left: 0.3rem;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    
+    .timeline__tag {
+        display: inline-block;
+        color: var(--secondary);
+        background-color: #84c4e230;
+        border: 1.5px solid #84c4e230;
+        border-radius: 999px;
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+        white-space: nowrap;
+        line-height: 1.4rem;
+        opacity: 0.8;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__description {
+        font-size: 15px;
+        line-height: 1.6;
+        color: #5d5d5d;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0.5rem 0 0.4rem 1.5rem;
+         
+    }
+     
+    
+    .timeline__tag-style {
+        background-color: #c581da;
+         
+        border-color: #c581da;
+         
+        color: #FFFFFF;
+         
+    }
+     
+    
+    .timeline__tag-article {
+        background-color: #92d392;
+         
+        border-color: #92d392;
+         
+        color: #000000;
+         
+    }
+     
+    
+    .timeline__tag-page {
+        background-color: #707070;
+         
+        border-color: #707070;
+         
+        color: #FFFFFF;
+         
+    }
+    
+    @media screen and (max-width: 768px) {
+        .timeline__time {
+            font-size: 14px;
+             
+        }
+        .timeline__title {
+            font-size: 16px;
+             
+        }
+        .timeline__description {
+            font-size: 14px;
+             
+        }
+    }
+&lt;/style&gt;
+
+&lt;div class=&#34;timeline__row&#34;&gt;
+    &lt;div class=&#34;timeline__time&#34;&gt;
+        &lt;div class=&#34;timeline__time&#34;&gt;2025-04-21&lt;/div&gt;
+        &lt;div class=&#34;timeline__split-line&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;timeline__content&#34;&gt;
+        &lt;div class=&#34;timeline__tags&#34;&gt;
+            &lt;span class=&#34;timeline__tag&#34;&gt;博客&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;&#34;&gt;
+            &lt;div class=&#34;timeline__title&#34;&gt;你好！世界！&lt;/div&gt;
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;timeline__description&#34;&gt;
+            发布第一个版本
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+    .timeline {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .timeline__row {
+        display: flex;
+        padding-left: 4%;
+        height: 90px;
+    }
+    
+    .timeline__time {
+        flex: 0 0 110px;
+        color: #5d5d5d;
+        font-size: 17px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5rem 0;
+    }
+    
+    .timeline__time-text {
+        margin: 0;
+    }
+    
+    .timeline__split-line {
+        position: absolute;
+        top: 0.5rem;
+        right: -20px;
+        height: 100%;
+        width: 2px;
+        background-color: #84c4e240;
+        z-index: 0;
+    }
+    
+    .timeline__split-line:before {
+        content: &#34;&#34;;
+        position: absolute;
+        top: 24%;
+        right: -4px;
+        transform: translateY(-50%);
+        width: 10px;
+        height: 10px;
+        background-color: #c9e5f2;
+        box-shadow: 0 0 0 4px var(--theme);
+        border-radius: 50%;
+        border: 0px solid #84c4e2;
+        z-index: -1;
+    }
+    
+    .timeline__content {
+        flex: 1;
+        margin-left: 4.5rem;
+        padding: 0.5rem 0 1.2rem 0;
+    }
+    
+    .timeline__title {
+        margin: 0;
+        margin-bottom: 2px;
+        padding-top: 3px;
+        margin-left: 0.5rem;
+        color: var(--content);
+        font-family: var(--font-family-teshu);
+        font-size: 19px;
+        font-weight: 600;
+        width: fit-content;
+        display: inline-block;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__tags {
+        display: inline-block;
+        padding: 0;
+        margin-left: 0.3rem;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    
+    .timeline__tag {
+        display: inline-block;
+        color: var(--secondary);
+        background-color: #84c4e230;
+        border: 1.5px solid #84c4e230;
+        border-radius: 999px;
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+        white-space: nowrap;
+        line-height: 1.4rem;
+        opacity: 0.8;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__description {
+        font-size: 15px;
+        line-height: 1.6;
+        color: #5d5d5d;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0.5rem 0 0.4rem 1.5rem;
+         
+    }
+     
+    
+    .timeline__tag-style {
+        background-color: #c581da;
+         
+        border-color: #c581da;
+         
+        color: #FFFFFF;
+         
+    }
+     
+    
+    .timeline__tag-article {
+        background-color: #92d392;
+         
+        border-color: #92d392;
+         
+        color: #000000;
+         
+    }
+     
+    
+    .timeline__tag-page {
+        background-color: #707070;
+         
+        border-color: #707070;
+         
+        color: #FFFFFF;
+         
+    }
+    
+    @media screen and (max-width: 768px) {
+        .timeline__time {
+            font-size: 14px;
+             
+        }
+        .timeline__title {
+            font-size: 16px;
+             
+        }
+        .timeline__description {
+            font-size: 14px;
+             
+        }
+    }
+&lt;/style&gt;
+&lt;/p&gt;
 </description>
         </item>
         <item>

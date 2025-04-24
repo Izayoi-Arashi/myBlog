@@ -6,11 +6,11 @@
 
 <link rel='canonical' href='https://arashiizayoi.xin/post/'>
 
-<link rel="stylesheet" href="/scss/style.min.d1501d423f1c842cf9e87dcbd61cd4357a6c18c1ed6885cd114ef2cefc95c85d.css"><meta property='og:title' content="Posts">
+<link rel="stylesheet" href="/scss/style.min.8d0e3ec960f0ef0c69bd639e24a714871159382d469bfd900ac831e5454a024d.css"><meta property='og:title' content="Posts">
 <meta property='og:description' content="十六夜岚 | 倚楼听风雨，淡看江湖路">
 <meta property='og:url' content='https://arashiizayoi.xin/post/'>
 <meta property='og:site_name' content='雨缄信笺'>
-<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2025-04-23T00:00:00&#43;00:00 '/>
+<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2025-04-24T00:00:00&#43;00:00 '/>
 <meta name="twitter:title" content="Posts">
 <meta name="twitter:description" content="十六夜岚 | 倚楼听风雨，淡看江湖路"><link rel="alternate" type="application/rss&#43;xml" href="https://arashiizayoi.xin/post/index.xml">
     <link rel="shortcut icon" href="/favicon.ico" />
@@ -146,13 +146,13 @@
         
         
         <li >
-            <a href='/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-%E5%85%AC%E5%91%8A/' >
+            <a href='/%E6%97%B6%E9%97%B4%E8%BD%B4/' >
                 
                 
                 
                     <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-list"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 6l11 0" /><path d="M9 12l11 0" /><path d="M9 18l11 0" /><path d="M5 6l0 .01" /><path d="M5 12l0 .01" /><path d="M5 18l0 .01" /></svg>
                 
-                <span>更新日志 &amp; 公告</span>
+                <span>时间轴</span>
             </a>
         </li>
         
@@ -244,6 +244,65 @@
 </aside>
 
     <aside class="sidebar right-sidebar sticky">
+        <div class="calendar">
+  <div class="calendar-header">
+    <span id="monthTitle"></span>
+  </div>
+  <div class="calendar-grid">
+    <div class="day-header">Sun</div>
+    <div class="day-header">Mon</div>
+    <div class="day-header">Tue</div>
+    <div class="day-header">Wed</div>
+    <div class="day-header">Thu</div>
+    <div class="day-header">Fri</div>
+    <div class="day-header">Sat</div>
+    <div id="calendarBody" class="calendar-body"></div>
+  </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const today = new Date();
+    const currentMonth = today.getMonth();
+    const currentYear = today.getFullYear();
+    const currentDate = today.getDate();
+    
+    const monthTitle = document.getElementById('monthTitle');
+    const calendarBody = document.getElementById('calendarBody');
+    
+    
+    monthTitle.innerText = `${currentYear}年 ${currentMonth + 1}月`;
+
+    
+    const firstDay = new Date(currentYear, currentMonth, 1).getDay();
+    
+    const daysInMonth = new Date(currentYear, currentMonth + 1, 0).getDate();
+
+    
+    calendarBody.innerHTML = '';
+
+    
+    for (let i = 0; i < firstDay; i++) {
+      const emptyDiv = document.createElement('div');
+      calendarBody.appendChild(emptyDiv);
+    }
+
+    
+    for (let day = 1; day <= daysInMonth; day++) {
+      const dayDiv = document.createElement('div');
+      dayDiv.classList.add('day');
+      dayDiv.innerText = day;
+
+      
+      if (day === currentDate) {
+        dayDiv.classList.add('today');
+      }
+
+      calendarBody.appendChild(dayDiv);
+    }
+  });
+</script>
+
         
             
                 <form action="/search/" class="search-form widget" >
@@ -288,7 +347,7 @@
                     <a href="/archives/#2025">
                         
                             <span class="year">2025</span>
-                            <span class="count">3</span>
+                            <span class="count">5</span>
                         
                     </a> 
                 </div>
@@ -317,6 +376,10 @@
         
             <a href="/categories/%E8%BF%81%E7%A7%BB/" class="font_size_3">
                 迁移
+            </a>
+        
+            <a href="/categories/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/" class="font_size_2">
+                更新日志
             </a>
         
             <a href="/categories/%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5%E7%BC%A4%E7%BA%B7%E8%88%9E%E5%8F%B0/" class="font_size_1">
@@ -357,7 +420,7 @@
 
         <div class="section-card">
             <div class="section-details">
-                <h3 class="section-count">3 个页面</h3>
+                <h3 class="section-count">5 个页面</h3>
                 <h1 class="section-term">Posts</h1>
                 
             </div>
@@ -367,7 +430,27 @@
     <section class="article-list--compact">
         
             <article>
-    <a href="/p/see/">
+    <a href="/p/ud02/">
+        <div class="article-details">
+            <h2 class="article-title">更新日志02</h2>
+            <footer class="article-time">
+                <time datetime='2025-04-24T00:00:00Z'>Apr 24, 2025</time>
+            </footer>
+        </div>
+            <div class="article-image">
+                <img src="/p/ud02/cover_hu_78836553cb970087.png" 
+                        width="120"
+                        height="120" 
+                        alt="更新日志02"
+                        loading="lazy">
+                
+            </div>
+        
+    </a>
+</article>
+        
+            <article>
+    <a href="/p/see01/">
         <div class="article-details">
             <h2 class="article-title">山</h2>
             <footer class="article-time">
@@ -375,7 +458,7 @@
             </footer>
         </div>
             <div class="article-image">
-                <img src="/p/see/cover_hu_2bcfd0b914933a46.jpg" 
+                <img src="/p/see01/cover_hu_2bcfd0b914933a46.jpg" 
                         width="120"
                         height="120" 
                         alt="山"
@@ -387,7 +470,7 @@
 </article>
         
             <article>
-    <a href="/p/book/">
+    <a href="/p/book01/">
         <div class="article-details">
             <h2 class="article-title">一场失与得的思考</h2>
             <footer class="article-time">
@@ -395,7 +478,7 @@
             </footer>
         </div>
             <div class="article-image">
-                <img src="/p/book/cover_hu_12be349e55337447.jpg" 
+                <img src="/p/book01/cover_hu_12be349e55337447.jpg" 
                         width="120"
                         height="120" 
                         alt="一场失与得的思考"
@@ -406,27 +489,22 @@
     </a>
 </article>
         
-            <article>
-    <a href="/p/pjsk/">
-        <div class="article-details">
-            <h2 class="article-title">歌曲分享01</h2>
-            <footer class="article-time">
-                <time datetime='2025-04-21T00:00:00Z'>Apr 21, 2025</time>
-            </footer>
-        </div>
-            <div class="article-image">
-                <img src="/p/pjsk/25_hu_310f835563d75019.jpg" 
-                        width="120"
-                        height="120" 
-                        alt="歌曲分享01"
-                        loading="lazy">
-                
-            </div>
-        
-    </a>
-</article>
-        
     </section>
+    <nav class='pagination'>
+        
+        
+
+        
+            
+                <span class='page-link current'>1</span>
+                
+            
+            
+                    <a class='page-link' href='/post/page/2/'>2</a>
+                
+            
+    </nav>
+
 <footer class="site-footer">
     <section class="copyright">
         &copy; 
@@ -435,11 +513,13 @@
     </section>
     
     <section class="powerby">
+        <a href="https://icp.gov.moe/?keyword=20250486" target="_blank">萌ICP备20250486号</a>
+        |
         
             十六夜岚的个人主页 <br/>
         使用 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> 构建 <br />
         主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.30.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计
-        <br>
+        |
         <span>由Arashi定制</span>
         <br>
         <span id="timeDate">载入天数...</span><span id="times">载入时分秒...</span>
@@ -465,7 +545,35 @@
                 document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒"
             }
             setInterval("createtime()",250); 
-        </script> 
+        </script> |
+         
+         
+             
+         
+             
+         
+             
+         
+             
+         
+             
+         
+             
+         
+             
+         
+             
+         
+             
+         
+             
+         
+         发表了5篇文章 · 
+         总计3.89k字
+         <br>
+         <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">
+            <img alt="Static Badge" src="https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-red?logo=creativecommons">
+         </a>          
     </section>
 </footer>
 
